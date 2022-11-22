@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",বি-টিভি
-http://103.106.2.152:13456/btv.m3u8
+http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",সি-টিভি
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এ টি এন-বাংলা
@@ -329,7 +329,7 @@ http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:0 tvg-id="ext" group-title="beIN SPORTS.",T Sports
-http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="beIN SPORTS.",Real Madrid TV ES
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
@@ -340,7 +340,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Qaz Sport HD
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Ptv Sports
-http://103.55.144.46/hls/ptv.m3u8
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Geo Super
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Ten Sports
@@ -365,7 +365,7 @@ http://51.89.98.62:8080/nadilson/12345678/27282
 #EXTINF:0 tvg-id="Sportv.br" group-title="WRESTLING.",SporTV HD*
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:0 tvg-id="Sportv.br" group-title="WRESTLING.",SporTV HD*2
-http://51.89.98.62:8080/nadilson/12345678/27277
+http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WRESTLING.",SporTV HD*3
 http://51.89.98.62:8080/nadilson/12345678/27279
 #EXTINF:0 tvg-id="ext" group-title="WRESTLING.",WWE-Wrestling
