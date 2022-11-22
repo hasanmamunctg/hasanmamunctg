@@ -363,7 +363,7 @@ https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
 http://51.89.98.62:8080/nadilson/12345678/27282
 
 #EXTINF:0 tvg-id="Sportv.br" group-title="WRESTLING.",SporTV HD*
-http://51.89.98.62:8080/nadilson/12345678/27275
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:0 tvg-id="Sportv.br" group-title="WRESTLING.",SporTV HD*2
 http://51.89.98.62:8080/nadilson/12345678/27277
 #EXTINF:0 tvg-id="ext" group-title="WRESTLING.",SporTV HD*3
