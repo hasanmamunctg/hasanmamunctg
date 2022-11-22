@@ -350,7 +350,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
 #EXTINF:0 tvg-id="TenHD.in" group-title="SPORTS.",SONY TEN 1 HD
-http://dangguli.live:8080/SonyTen1/index.m3u8
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Sony Ten Hd 2
 http://stream.serverbd247.com/hls/sky10.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",bEin-Sports 1
@@ -360,16 +360,16 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="SPORTS.",Claro Sports
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Maq Tv
-http://51.89.98.62:8080/nadilson/12345678/27282
+http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
 #EXTINF:0 tvg-id="Sportv.br" group-title="WRESTLING.",SporTV HD*
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:0 tvg-id="Sportv.br" group-title="WRESTLING.",SporTV HD*2
 http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WRESTLING.",SporTV HD*3
-http://51.89.98.62:8080/nadilson/12345678/27279
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WRESTLING.",WWE-Wrestling
-http://157.90.248.102/upload/images/logo05.m3u8
+https://1740288887.rsc.cdn77.org:443/1740288887/tracks-v2a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="DOCUMENTARY.",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
