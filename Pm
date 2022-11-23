@@ -1,0 +1,249 @@
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",T sports 
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",T sports HD 
+http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.", World cup 1 
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Live World 
+cup 2 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8 
+
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Live World cup 4 
+http://51.79.82.208:16417 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Live World cup 5 
+http://189.91.128.146:4444/udp/227.10.20.81:1234 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Live World cup 6 
+http://hez1-flu.iptvstream.site/132/index.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",ARY Pak 
+http://208.86.19.13:81/627.stream/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Toffee
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Toffee Free 
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",T Sports SD 
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Gazi TV SD 
+http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Qatar TV 
+https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",TSN Live 
+http://89.187.175.143:80/3038/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Fox Sports 1 HD 
+http://89.187.175.143:80/3056/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",beIN Sports 1 Premium 
+http://13.229.80.186:5000/play/Bein_Sport-Premium1/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",beIN Sports 3 Max 
+http://175.107.244.52:4457/play/a06z/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",KBS 1
+http://123.30.146.172:21585/200/index.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.", CUP QATAR 
+http://123.30.146.172:21585/203/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BS world cup 
+http://123.30.146.172:21585/202/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",TV2 cliptv 
+http://171.238.181.52:18080/192.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",SN3 HD 
+http://89.187.175.143:80/3046/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",SN4 HD 
+http://89.187.175.143:80/3047/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",SN5 HD 
+http://89.187.175.143:80/3048/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",eIN Sports MAX 2 HD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Bein Sports 
+Http://51.79.82.208:16064
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.", Sports3 
+Http://51.79.82.208:16065
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",qatar 2022 (Teledoce - Uy) 
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",LIVE1 
+http://89.187.175.143:80/3056/mpegts
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",LIVE1 
+http://hez1-flu.iptvstream.site/131/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",beIN SPORTS 1 HD 
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/5347.ts
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Gazi TV HD 4K 
+http://humiptv.live:8080/live/Musasidiqi/Musasidiqi87/767.ts
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Batabi Lebu 
+http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Fox Sports HD 
+http://45.232.210.1:8062/play/a08s/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Ten 2 HD 
+http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Star Sports 1 HD 
+http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Ten Sports HD 
+http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Sony Ten 1 HD freecatv 
+http://175.107.244.52:4455/play/a01k/index.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Star S Hin 1 HD freecatv 
+http://175.107.244.52:4455/play/a01m/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Star Sports 2 HD freecatv 
+http://175.107.244.52:4455/play/a01j/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",FOX SPORTS 2 HD 
+http://89.187.175.143:80/3028/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",FOX SPORTS DETROIT HD 
+http://89.187.175.143:80/3115/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",FOX SPORTS NORTH HD 
+http://89.187.175.143:80/3113/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BeIN Sports 1 
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BeIN Sports 2 
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BeIN Sports 3 
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BT Sports 2 
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BT Sports 3 
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",DAZN LALIGA
+http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",FOX NET MID 
+http://89.187.175.143:80/4176/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",ESPN U HD 
+http://89.187.175.143:80/3044/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Fox Sports 2 
+http://45.232.210.1:8062/play/a094/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Fox Sports 3 
+http://45.232.210.1:8062/play/a095/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Fox Sports Premium 
+http://45.232.210.1:8062/play/a08b/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",FOX NET EAST 
+http://89.187.175.143:80/4175/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",SEC Network HD 
+http://89.187.175.143:80/3054/index.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Live Sports 4 
+http://103.78.255.178:8080/starselect1/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BEIN SPORT 3
+http://175.107.244.52:4457/play/a06x/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Bein Sport 1 FR 🇫🇷 
+http://w4.12all.tv:4000/play/bein1fr/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Bein Sports 2 FR 🇫🇷 
+http://w4.12all.tv:4000/play/bein2fr/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Bein Sports 3 FR 🇫🇷
+http://w4.12all.tv:4000/play/bein3fr/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Bein Sports 🇶🇦 
+http://175.107.244.52:4457/play/a070/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Bein Sports 5 Arabic 🇶🇦 
+http://175.107.244.52:4457/play/a06y/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",SIX HD 
+http://175.107.244.52:4455/play/a01l/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Sky Sport event 1 
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Sky Sport Golf 
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",BARSA TV 
+http://154.62.74.29:1935/live/barza/chunklist.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",DD Sports 
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 Dubai Sports 1 HD http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Dubai Sports 2 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Dubai Sports 3 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",EDGE 
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Geo Super 
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088 
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",MAQ TV CRICKET 
+http://str24.l9574.com/517.stream/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",MQC TV 
+http://208.86.19.13:81/517.stream/index.m3u8
+
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Redbull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",SPORTS TV 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",TURKMENISTAN SPORTS 🇹🇷 
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",LUTAS 
+http://tv2.efiberbd.net:8080/live/mkaua/stream/33.m3u8
+
+
+#EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",STAR SPORTS 2 HD 
+http://tv2.efiberbd.net:8080/live/mkaua/stream/37.m3u8
+
+
+ 
+
