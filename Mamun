@@ -30,7 +30,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-id="ext" group-title="Channels",বিজয়-টিভি(BDIX)
 http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",চ্যানেল-৯
-http://jupiter.bdcabletv.com/CHANNELNINEBD-IRD/video.m3u8
+http://cdn01.palki.tv/live/Channel9-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",মাই-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",বৈশাখী-টিভি
@@ -293,7 +293,7 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemao
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Hollywood Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="ENGLISH MOVIE.",Hbo
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Hits Movie
 http://103.127.92.38:81/play/a01h
 #EXTINF:0 tvg-id="AXN.bg" group-title="ENGLISH MOVIE.",Axn
