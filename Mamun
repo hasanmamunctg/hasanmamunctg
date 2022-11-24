@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="ext" group-title="Channels",বি-টিভি
 http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",সি-টিভি
-http://103.106.2.152:13456/btv_ctg.m3u8
+http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এ টি এন-বাংলা
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",চ্যানেল-আই
@@ -10,7 +10,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-id="ext" group-title="Channels",একুশে-টিভি
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",আর-টিভি
-http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এন-টিভি
 http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এন-টিভি ইউ কে
@@ -28,13 +28,13 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-id="ext" group-title="Channels",আনন্দ-টিভি
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",বিজয়-টিভি(BDIX)
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
+http://cdn01.palki.tv/live/BijoyTV-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",চ্যানেল-৯
 http://jupiter.bdcabletv.com/CHANNELNINEBD-IRD/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",মাই-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",বৈশাখী-টিভি
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",বৈশাখী-প্লাস
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",মোহনা-টিভি
@@ -42,7 +42,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:0 tvg-id="ext" group-title="Channels",দেশ-টিভি
 http://jupiter.bdcabletv.com/Desh-TV/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",গাজী-টিভি
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/playlist.m3u8
+http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এশিয়ান-টিভি
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",নাগরিক-টিভি
@@ -82,8 +82,10 @@ https://server1.jadubd.com/channel23/channel23/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",চ্যানেল এস
 https://live.tvdhaka.com:30443/live/channels/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",গ্লোবাল টিভি 
+http://cdn01.palki.tv/live/GlobalTV-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",নেক্সাস-টিভি
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
+http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",ক্যানাডা বাংলা-টিভি
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",কে-টিভি
@@ -132,8 +134,8 @@ http://203.190.11.101:1935/live/remote/chunklist_w1446657896.m3u8
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",টিভি ওয়ান
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/tvoneuksni.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",জিরো নিউজ
-https://live.tvdhaka.com:30443/live/zeronews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",এখন নিউজ
+http://cdn01.palki.tv/live/EkhonTV-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",জাগো নিওজ
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",নিউজ-২৪(BDIX)
@@ -167,13 +169,14 @@ https://live.tvdhaka.com:30443/live/aliftv/playlist.m3u8
 https://tvhostbd21.technohaat.com/kidscreation/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA MOVIE.",স্বাধীন বাংলা টিভি
 https://sbnet.raytahost.com/live/sbnet/index.m3u8
-
+#EXTINF:0 tvg-id="DreamTV.tr" group-title="HINDI MOVIE.",B4U Plas
+http://watchindia.net:8880/live/14100/70701/823.ts
 #EXTINF:0 tvg-id="DreamTV.tr" group-title="HINDI MOVIE.",Dream Tv
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",& Pictures Hd
 http://103.179.246.243:8000/play/a017
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",& XPLOR
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2769.m3u8
+http://watchindia.net:8880/live/14100/70701/2204.ts
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Colors Cineplex
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Joo-Music
@@ -185,7 +188,7 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Hasti Tv
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",UTV-Action
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",U TV Movie
 http://103.127.92.38:81/play/utvmovies
 #EXTINF:0 tvg-id="muztv" group-title="HINDI MOVIE.",U TV
@@ -203,7 +206,7 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Star-Gold Hd
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Star-Gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Zee-Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Zee-Action
@@ -221,7 +224,7 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:0 tvg-id="CinemaTV.in" group-title="HINDI MOVIE.",Cinema TV
 http://14.199.164.20:4001/play/a0n4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",BBO
-https://yupptvmsldevnonind.akamaized.net/hls/live/2004033/bbo/bbo/playlist.m3u8?hdnts=st=1613183104~exp=1713183004~acl=*/2004033/*~data=YuppTV_Monitoring~hmac=4ee622b2e3c0fb48623afc4416faa1398bb3625fa577c24b02180e989bee5b11
+http://watchindia.net:8880/live/14100/70701/2157.ts
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",BBO Classic
 https://yupptvmsldevnonind.akamaized.net/hls/live/2004033/bboclassicpxy/bboclassicpxy/playlist.m3u8?hdnts=st=1613183104~exp=1713183004~acl=*/2004033/*~data=YuppTV_Monitoring~hmac=4ee622b2e3c0fb48623afc4416faa1398bb3625fa577c24b02180e989bee5b11
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Wow-cinema one
@@ -296,7 +299,7 @@ http://103.127.92.38:81/play/a01h
 #EXTINF:0 tvg-id="AXN.bg" group-title="ENGLISH MOVIE.",Axn
 http://103.127.92.38:81/play/axn
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",The Movie Hub
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Romedy Now
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Film+
@@ -346,7 +349,7 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Ten Sports
 http://dangguli.live:8080/TenSports/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
+http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
 #EXTINF:0 tvg-id="TenHD.in" group-title="SPORTS.",SONY TEN 1 HD
