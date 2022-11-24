@@ -337,7 +337,7 @@ http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",A Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",CCTV5+Sport
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Qaz Sport HD
