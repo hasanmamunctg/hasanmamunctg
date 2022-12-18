@@ -42,7 +42,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:0 tvg-id="ext" group-title="Channels",দেশ-টিভি
 http://jupiter.bdcabletv.com/Desh-TV/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",গাজী-টিভি
-http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এশিয়ান-টিভি
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",নাগরিক-টিভি
@@ -333,13 +333,19 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedb
 
 #EXTINF:0 tvg-id="ext" group-title="beIN SPORTS.",T Sports
 http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS.",Qatar Sports
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="beIN SPORTS.",Toffee 
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS.",BEIN sports max 1
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="beIN SPORTS.",BEIN sports max 2
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX2-H265/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS.",BEIN sports max3
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX3-H265/video.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="SPORTS.",A Sports
-http://quality-restream.com:8080/kingtveu/7a612d9dd0e2/100
+#EXTINF:0 tvg-id="ext" group-title="SPORTS.",BEIN sports max 4
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX4-H265/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS.",BEIN sports max 5
+http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX5-H265/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS.",bEin-Sports 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8?free_iptv_m3u8_link's
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",CCTV5+Sport
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Qaz Sport HD
@@ -347,7 +353,7 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Ptv Sports
 http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Geo Super
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+http://tv.maguraplex.net:8000/live/tyc/index.m3u8
 #EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Ten Sports
 http://dangguli.live:8080/TenSports/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Unifi Sports 1
@@ -361,7 +367,7 @@ http://stream.serverbd247.com/hls/sky10.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",bEin-Sports 1
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",bEin-Sports 2
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8?free_iptv_m3u8_link's
 #EXTINF:0 tvg-id="ClaroSports.mx" group-title="SPORTS.",Claro Sports
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Maq Tv
