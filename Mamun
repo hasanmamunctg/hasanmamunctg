@@ -295,7 +295,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-id="HBOAdria.rs" group-title="ENGLISH MOVIE.",Hbo
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Hits Movie
-http://103.127.92.38:81/play/a01h
+https://shls-live-ak.akamaized.net:443/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 #EXTINF:0 tvg-id="AXN.bg" group-title="ENGLISH MOVIE.",Axn
 http://103.127.92.38:81/play/axn
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",The Movie Hub
@@ -334,7 +334,7 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedb
 #EXTINF:0 tvg-id="ext" group-title="beIN SPORTS.",T Sports
 http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="beIN SPORTS.",BEIN sports max 1
-http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/cfeace4c-d8b0-461a-8a48-e21a72d3598f/3.m3u8
 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="beIN SPORTS.",BEIN sports max 2
 http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX2-H265/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",BEIN sports max3
