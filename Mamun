@@ -40,7 +40,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-id="ext" group-title="Channels",মোহনা-টিভি
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",দেশ-টিভি
-http://jupiter.bdcabletv.com/Desh-TV/video.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",গাজী-টিভি
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এশিয়ান-টিভি
@@ -49,8 +49,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.
 https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",আলপনা-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Duronto TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ম্যাজিক বাংলা টিভি
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/magicbanglatv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",মাতৃভূমি টিভি
@@ -58,7 +58,7 @@ http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",চ্যানেল-বি
 https://live.tvdhaka.com:30443/channelbd/channelB/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",রয়েল-টিভি
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/royaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এনআরবি-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",কুমিল্লা-টিভি
@@ -82,12 +82,12 @@ https://server1.jadubd.com/channel23/channel23/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",চ্যানেল এস
 https://live.tvdhaka.com:30443/live/channels/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",গ্লোবাল টিভি 
-http://cdn01.palki.tv/live/GlobalTV-M/index.fmp4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",এ বি টিভি
+http://208.86.19.13:81/501.stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",নেক্সাস-টিভি
 http://cdn01.palki.tv/live/NexusTV-M/index.fmp4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",ক্যানাডা বাংলা-টিভি
-https://bdcast-live2.b-cdn.net/jago/1/live-orgin/canbanglatv.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",কে-টিভি
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",২১ বাংলা টিভি
@@ -115,7 +115,7 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3315.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",আই-টিভি ইউ কে
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",বরেন্দ্র-টিভি
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",দোয়েল-টিভি
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",চ্যানেল-টিটি ইউ কে
@@ -247,15 +247,15 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-au
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",9XM-Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Masti-Music(BDIX)
-http://14.199.164.20:4001/play/a0my/index.m3u8
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Love-Music
 http://tv.googledrivelinks.com:8088/live.php?c=iLove&q=600&e=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Music-India(BDIX)
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Zoom-Music
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="B4UMusic.uk" group-title="HINDI MUSIC.",B4u Music
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Shemaro-Music
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1650.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Dil Se Music
@@ -357,9 +357,9 @@ http://tv.maguraplex.net:8000/live/tyc/index.m3u8
 #EXTINF:0 tvg-id="TenSports.in" group-title="SPORTS.",Ten Sports
 http://dangguli.live:8080/TenSports/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Unifi Sports 1
-http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
+http://195.2.74.99/channel/n12693b2c/index.m3u8?q=4ebaf090fec49a8dd843e0ee0ac69a5c
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:0 tvg-id="TenHD.in" group-title="SPORTS.",SONY TEN 1 HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS.",Sony Ten Hd 2
