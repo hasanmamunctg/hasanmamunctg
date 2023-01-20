@@ -10,7 +10,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-id="ext" group-title="Channels",একুশে-টিভি
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",আর-টিভি
-https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এন-টিভি
 http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এন-টিভি ইউ কে
@@ -208,7 +208,7 @@ http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Star-Gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Zee-Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Zee-Action
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Zee-Bollywood
