@@ -18,7 +18,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",বাংলাভিশন-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",মাছরাঙা-টিভি
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+https://niptv.kitv.live/MAASRANGA-TV/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এস এ-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",দিপ্ত-টিভি
@@ -182,9 +182,9 @@ http://103.55.144.46:80/hls/colorscineplex.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Joo-Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:0 tvg-id="E24.in" group-title="HINDI MOVIE.",E24
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+https://watchtvs.live/live.php?c=E_24&q=250&e=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",B4U Movie
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+https://watchtvs.live/live.php?c=B4U_Movies&q=250&e=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Hasti Tv
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",UTV-Action
@@ -217,18 +217,18 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",B4U-Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",DHINCHAAK
-http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",GoldMines
+https://livetv-channels.b-cdn.net/8046/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",DHINCHAAK 2
-http://14.199.164.20:4001/play/a0tm/index.m3u8
+https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
 #EXTINF:0 tvg-id="CinemaTV.in" group-title="HINDI MOVIE.",Cinema TV
-http://14.199.164.20:4001/play/a0n4/index.m3u8
+https://livetv-channels.b-cdn.net/8000/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",BBO
 http://watchindia.net:8880/live/14100/70701/2157.ts
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",BBO Classic
 https://yupptvmsldevnonind.akamaized.net/hls/live/2004033/bboclassicpxy/bboclassicpxy/playlist.m3u8?hdnts=st=1613183104~exp=1713183004~acl=*/2004033/*~data=YuppTV_Monitoring~hmac=4ee622b2e3c0fb48623afc4416faa1398bb3625fa577c24b02180e989bee5b11
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Wow-cinema one
-http://14.199.164.20:4001/play/a0n3/index.m3u8
+https://livetv-channels.b-cdn.net/8097/chunklist0.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",SHOW Box MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
@@ -243,25 +243,28 @@ http://ottss.online:8000/44122162500170/30316873476781/178763
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",9XM(BDIX)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",9XM-Jalwaa(BDIX)
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+https://livetv-channels.b-cdn.net/8013/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",9XM-Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",9x Tashan
+https://livetv-channels.b-cdn.net/8021/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Love MUSIC 
+https://livetv-channels.b-cdn.net/8082/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Masti-Music(BDIX)
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Love-Music
-http://tv.googledrivelinks.com:8088/live.php?c=iLove&q=600&e=.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Music-India(BDIX)
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+https://livetv-channels.b-cdn.net/8005/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Zoom-Music
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-id="B4UMusic.uk" group-title="HINDI MUSIC.",B4u Music
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Shemaro-Music
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1650.m3u8
+https://watchtvs.live/live.php?c=B4U_Music&q=250&e=.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Dil Se Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MUSIC.",Mtunes Plus
-http://14.199.164.20:4001/play/a0p2/index.m3u8
+https://livetv-channels.b-cdn.net/8031/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
