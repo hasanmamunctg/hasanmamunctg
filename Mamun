@@ -226,7 +226,7 @@ https://livetv-channels.b-cdn.net/8000/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",BBO
 http://watchindia.net:8880/live/14100/70701/2157.ts
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",BBO Classic
-https://yupptvmsldevnonind.akamaized.net/hls/live/2004033/bboclassicpxy/bboclassicpxy/playlist.m3u8?hdnts=st=1613183104~exp=1713183004~acl=*/2004033/*~data=YuppTV_Monitoring~hmac=4ee622b2e3c0fb48623afc4416faa1398bb3625fa577c24b02180e989bee5b11
+https://watchtvs.live/live.php?c=Bflix_Movies&q=250&e=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HINDI MOVIE.",Wow-cinema one
 https://livetv-channels.b-cdn.net/8097/chunklist0.m3u8
 
