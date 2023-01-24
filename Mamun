@@ -55,8 +55,8 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/magicbanglatv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",মাতৃভূমি টিভি
 http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",চ্যানেল-বি
-https://live.tvdhaka.com:30443/channelbd/channelB/playlist.m3u8
+#EXTINF:0 tvg-id="ext"https://www.metvbd.com/media/common/logo.png group-title="Channels",মি টিভি
+https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",রয়েল-টিভি
 http://iptvbd.jagobd.com:1931/live-orgin/royaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",এনআরবি-টিভি
