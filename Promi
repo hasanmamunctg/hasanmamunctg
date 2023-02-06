@@ -284,12 +284,12 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="ENGLISH MOVIE.", Movies Now
-http://103.55.144.46/hls/movies-now.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVFypKtTFK24FytADjeobO-gkO8B8FJK8Pg&usqp=CAU" group-title="ENGLISH MOVIE.",MnX Tv
-http://103.55.144.46:80/hls/mnx-hd.m3u8
-#EXTINF:0 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="ENGLISH MOVIE.",Mn+
-http://103.55.144.46:80/hls/mn+.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Rock Action 
+http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
+#EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Hits Movie 
+http://210.210.155.37/session/0eb57594-a570-11ed-bd42-b0d997ea6397/dr9445/h/h38/01.m3u8
+#EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIE.",Hits 
+http://210.210.155.37/session/5951646e-a570-11ed-bd9b-a56f9bd43ce6/dr9445/h/h37/01.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
