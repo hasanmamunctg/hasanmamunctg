@@ -117,7 +117,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",বরেন্দ্র-টিভি
 http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",দোয়েল-টিভি
-http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
+https://live.doyeltv.com/live/doyeltv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",চ্যানেল-টিটি ইউ কে
 https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",মীম-টিভি
