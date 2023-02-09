@@ -124,6 +124,12 @@ https://live.tvdhaka.com:30443/live/probashi/playlist.m3u8
 http://str24.l9574.com/518.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" group-VOICE-TV="BANGLA ENT.",রাজধানী-টিভি 
 https://park.raytahost.com/live/rajdhani/index.m3u8
+#EXTINF:0 tvg-logo="https://sadhinbangla.tv/wp-content/uploads/2021/07/4-011.png" group-VOICE-TV="BANGLA ENT.",স্বাধীন বাংলা
+https://dcn.raytahost.com/live/sbtv/index.m3u8
+#EXTINF:0 tvg-logo="https://www.shadhinbanglatv.net/wp-content/uploads/2021/04/logoo.png" group-VOICE-TV="BANGLA ENT.",স্বাধীন বাংলা
+https://sbnet.raytahost.com/live/sbnet/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakyouXZzQQlBxTHfQoLfftmZAQdxMml3U-29MBo289EXFMjToLKisEXk&s=10" group-VOICE-TV="BANGLA ENT.",রূপসী বাংলা
+http://5fe9adb07250c.streamlock.net:1935/live/rup/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-VOICE-TV="BANGLA ENT.",জাগো নিওজ
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
@@ -250,8 +256,8 @@ http://103.55.144.46/hls/dhin.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStjQgV4MnHL0YUI74f_FIBMuPPQPuEkpjHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Hbo
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ENGLISH MOVIE.",HBO ASIA
-http://51.89.98.62:8080/nadilson/12345678/47763
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ENGLISH MOVIE.",Horror Tv
+http://5.9.150.76/horrorhd/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn 
 http://51.89.98.62:8080/nadilson/12345678/27320
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4W0QRjG0Ohe2Lazt7NtIQZZ25dkHWz-Miw&usqp=CAU" group-title="ENGLISH MOVIE.",The Movie Hub
