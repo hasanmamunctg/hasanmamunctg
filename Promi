@@ -85,7 +85,8 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.",সিএনএন-বাংলা 
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAl_kRd7SGrp9oWnGHPW4OdFBjjeemXUQSYA&usqp=CAU" group-CNN-BANGLA 2="BANGLA MOVIE.",চ্যানেল এস
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",মেঘনা-টিভি
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/bc.jpg" group-title="BANGLA ENT.",বাংলা-টিভি
