@@ -146,8 +146,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",যমুনা-টিভি(BDIX)
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",সানান্দা টিভি
+http://bdip.ddns.net:1895/live/iptv/chunklist_w910351673.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",খুশবু বাংলা-টিভি
-https://idvd.multitvsolution.com/idvo/khushboo.m3u8
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",আমার-বাংলা
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",গান বাংলা-টিভি
@@ -158,7 +160,6 @@ https://bd.jagobd.com:444/live-orgin/atnmusic.stream/chunks.m3u8
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",ঝংকার টিভি
 https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="BANGLA MOVIE.",দেশি-টিভি
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA MOVIE.",জা টিভি
@@ -303,16 +304,16 @@ https://shls-live-ak.akamaized.net:443/out/v1/0965e4d7deae49179172426cbfb3bc5e/i
 http://103.127.92.38:81/play/axn
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",The Movie Hub
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Romedy Now
-http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
-#EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Film+
-https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
+#EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="ENGLISH MOVIE.",Star Movies Hd
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="ENGLISH MOVIE.",Sony Pix
-http://dangguli.live:8080/SonyPix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Hollywood Tv
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="ENGLISH MOVIE.",Groovy Tv
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 tvg-id="DoveTv.it" group-title="ENGLISH MOVIE.",Dove Tv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:0 tvg-id="WOWTV.us" group-title="ENGLISH MOVIE.",WOW TV
