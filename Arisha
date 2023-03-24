@@ -11,10 +11,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-R-TV="BANGLA ENT.",আর-টিভি(BDIX)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-N-TV="BANGLA ENT.",এন-টিভি
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x15351" group-N-TV UK="BANGLA ENT.",এন-টিভি ইউ কে
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-BANGLA-VISION="BANGLA ENT.",বাংলাভিশন-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-MACH-RANGA="BANGLA ENT.",মাছরাঙা-টিভি
@@ -167,7 +163,7 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI MUSIC.",9XM(BDIX)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/br7ZzX3R/IMG.jpg" group-title="HINDI MUSIC.",Zoom-Music
-http://103.179.246.243:8000/play/a025/index.m3u8
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/Nazrana.jpg" group-AM="HINDI MUSIC.",Najrana Tv
 https://live.hungama.com/linear/nazrana/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",Dil Se Music
@@ -183,7 +179,7 @@ http://210.210.155.37/session/0eb57594-a570-11ed-bd42-b0d997ea6397/dr9445/h/h38/
 #EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIE.",Hits 
 http://210.210.155.37/session/5951646e-a570-11ed-bd9b-a56f9bd43ce6/dr9445/h/h37/01.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Netflix Horror 
-http://stream.freedvb.com/hls/48750163.m3u8
+http://5.9.150.76/horrorhd/mono.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="ENGLISH MOVIE.",Groovy Tv
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CINEMO
@@ -206,14 +202,13 @@ https://shls-live-ak.akamaized.net:443/out/v1/0965e4d7deae49179172426cbfb3bc5e/i
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 #EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Star 2
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE73S47nvroWg6key6S_t79jQKr8_RVSXm99Xa3Q2_KjdixgV_ZgSuJH0H&s=10" group-title="ENGLISH MOVIE.",MBC 2
-http://103.55.144.46/hls/dhin.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStjQgV4MnHL0YUI74f_FIBMuPPQPuEkpjHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Hbo
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStjQgV4MnHL0YUI74f_FIBMuPPQPuEkpjHQ&usqp=CAU" group-title="ENGLISH MOVIE.",
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ENGLISH MOVIE.",Horror Tv
-http://5.9.150.76/horrorhd/mono.m3u8
+
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",C Movies 
 http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4W0QRjG0Ohe2Lazt7NtIQZZ25dkHWz-Miw&usqp=CAU" group-title="ENGLISH MOVIE.",The Movie Hub
@@ -221,8 +216,7 @@ https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="ENGLISH MOVIE.",Movie Russian 
 http://myott.top/stream/DEKA6YA5JRN/107.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU" group-title="ENGLISH MOVIE.",Film+
-https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0V0fEkmGII_vQdEmBrqHYR2EI17kAzKBSg&usqp=CAU" group-title="ENGLISH MOVIE.",Dove Tv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
@@ -230,8 +224,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXY8OAigOb5bPw78aRxLN1y8tx8vh_t3z12w&usqp=CAU" group-title="ENGLISH MOVIE.", Movie Sehere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/rgNQYAl_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="ENGLISH MOVIE.",Fright Flix
-http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
