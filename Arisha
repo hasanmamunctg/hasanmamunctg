@@ -281,13 +281,13 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ENGLISH MOVIE.",Horror Tv
 http://5.9.150.76/horrorhd/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn 
-http://51.89.98.62:8080/nadilson/12345678/27320
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",C Movies 
+http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4W0QRjG0Ohe2Lazt7NtIQZZ25dkHWz-Miw&usqp=CAU" group-title="ENGLISH MOVIE.",The Movie Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="ENGLISH MOVIE.",Romedy Now
-http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="ENGLISH MOVIE.",Movie Russian 
+http://myott.top/stream/DEKA6YA5JRN/107.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU" group-title="ENGLISH MOVIE.",Film+
 https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
 
