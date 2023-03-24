@@ -251,7 +251,28 @@ http://210.210.155.37/session/0eb57594-a570-11ed-bd42-b0d997ea6397/dr9445/h/h38/
 http://210.210.155.37/session/5951646e-a570-11ed-bd9b-a56f9bd43ce6/dr9445/h/h37/01.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Netflix Horror 
 http://stream.freedvb.com/hls/48750163.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="ENGLISH MOVIE.",Groovy Tv
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CINEMO
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8?checkedby:D4N-IPTV
+#EXTINF:0 tvg-id="Tcaction.br" group-title="ENGLISH MOVIE.",Telecine Action
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",MCA Tv
+http://210.210.155.37/session/e5da17ea-2038-11ed-a357-8629b49b6726/uq2663/h/h193/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Crystal Movie
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Laotra Tv
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Mbc
+https://shls-live-ak.akamaized.net:443/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
+#EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE73S47nvroWg6key6S_t79jQKr8_RVSXm99Xa3Q2_KjdixgV_ZgSuJH0H&s=10" group-title="ENGLISH MOVIE.",MBC 2
 http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
@@ -269,12 +290,7 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAv6q0j_3GdCxHOYa3jrQYXIbxSxJ9xZ61w&usqp=CAU" group-title="ENGLISH MOVIE.",Film+
 https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ms2ibMOEXrS9e4ey8X0gm2tM8-f6AG5ELw&usqp=CAU" group-title="ENGLISH MOVIE.",Star Movies Hd
-http://103.55.144.46:80/hls/starmovies.m3u8
-#EXTINF:0 tvg-logo="https://content3.jdmagicbox.com/comp/delhi/x9/011pxx11.xx11.120330141100.y8x9/catalogue/netmax-karol-bagh-delhi-internet-service-providers-q8s44h2399-250.jpg" group-title="ENGLISH MOVIE.",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
-http://103.55.144.46:80/hls/sonypixhd.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0V0fEkmGII_vQdEmBrqHYR2EI17kAzKBSg&usqp=CAU" group-title="ENGLISH MOVIE.",Dove Tv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",WOW TV
