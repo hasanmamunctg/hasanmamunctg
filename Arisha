@@ -198,7 +198,8 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Mbc
 https://shls-live-ak.akamaized.net:443/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Star Movies 
+http://iptv-tn.com:8080/gangastv@telegramm/nevado1_site-ruecoyaro.site/61129
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Star 1
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 #EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Star 2
