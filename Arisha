@@ -227,6 +227,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:0 tvg-id="tv1000" group-title="ENGLISH MOVIE.",Tv 1000
 https://sc.id-tv.kz/TV1000.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="ENGLISH MOVIE.",TNT
+http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Sofy Tv
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CCTN Tv
@@ -267,12 +269,12 @@ http://103.167.167.5:8111/play/a02n/index.m3u8
 http://204.12.247.162:8080/premium49/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
 http://51.89.98.62:8080/nadilson/12345678/27282
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*
-http://51.89.98.62:8080/nadilson/12345678/27275
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*2
-http://51.89.98.62:8080/nadilson/12345678/27277
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*3
-http://51.89.98.62:8080/nadilson/12345678/27279
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Diema|Sport
+http://204.12.247.162:8080/premium465/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Diema|Sport 2
+http://204.12.247.162:8080/premium466/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Diema|Sport 3
+http://204.12.247.162:8080/premium467/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",WWE-Wrestling
 http://157.90.248.102/upload/images/logo05.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
