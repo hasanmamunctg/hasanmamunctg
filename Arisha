@@ -289,6 +289,8 @@ http://iptv-tn.com:8080/gangastv@telegramm/nevado1_site-ruecoyaro.site/61129
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Filem Tv
 https://st01-1.iptv.joj.sk/106-tv-pc.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Filem & Art's 
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 #EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Si Fi
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 
@@ -321,6 +323,8 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/138389
 http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Sofy Tv
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Mundo Tv
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CCTN Tv
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:D4N-IPTV
 
@@ -362,8 +366,8 @@ http://humiptv.live:8080/live/242425/242425/98.ts
 "https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",&&
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_BTS/Fallback/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",JSports 1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Rta Sports 
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",JSports 2
 http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",SPOTV庐1•
