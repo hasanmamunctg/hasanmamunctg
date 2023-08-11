@@ -350,6 +350,8 @@ https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 http://ott-cdn.ucom.am/s47/01.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CtC Tv
 http://ott-cdn.ucom.am/s52/01.m3u8
+#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",E Movie 
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://live.himel-himu.tk/live/tsports_live_720/index.m3u8
@@ -439,5 +441,9 @@ https://livectv.phando.com/8076/chunklist0.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.", Cooking Active 
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/3748.ts
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",TRB
+http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",CLo
+http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
