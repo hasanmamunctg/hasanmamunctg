@@ -240,7 +240,9 @@ https://livectv1.phando.com/8009/chunklist0.m3u8
 http://142.132.136.139:8000/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Jio Cinema 
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Xtrema Cine Hindi 
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Joj Cinema 
 https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Rock Action 
 http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
@@ -254,7 +256,7 @@ http://210.210.155.37/session/5951646e-a570-11ed-bd9b-a56f9bd43ce6/dr9445/h/h37/
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",We TV
+#EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",WB TV
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 #EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Film Box Tv
 http://94.230.240.17:8080/film_box/index.m3u8
@@ -298,8 +300,12 @@ http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 #EXTINF:0 tvg-id="FilmPlus.cz" group-title="ENGLISH MOVIE.",Si Fi
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-http://redlabmcdn.s.llnwi.net/nv02/bs10hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Xtrema Cine Acción
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -327,8 +333,8 @@ http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/138389
 #EXTINF:0 tvg-id="tv1000" group-title="ENGLISH MOVIE.",TNT
 http://208.86.19.13:81/16.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Sofy Tv
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Cinema+Tv
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Mundo Tv
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CCTN Tv
@@ -347,6 +353,7 @@ http://ott-cdn.ucom.am/s68/01.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",Tbu
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",Tv
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 http://ott-cdn.ucom.am/s47/01.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CtC Tv
 http://ott-cdn.ucom.am/s52/01.m3u8
