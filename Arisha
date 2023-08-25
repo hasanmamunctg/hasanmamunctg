@@ -181,6 +181,7 @@ https://livectv.phando.com/8079/playlist.m3u8
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/3745.ts
 http://2hubs.ddns.net:25461/BabNour/telegrramm/69445
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/52496.ts
 https://livectv.phando.com/8004/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yhcssyEhua3hEQ1YCkKjabyYf_MNmjLubw&usqp=CAU" group-title="HINDI MOVIE.",GoldMines Bollywood
@@ -192,11 +193,13 @@ https://live.hastitv.com/hls/livetv.m3u8
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/9373.ts
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/20648.ts
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold Romans 
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/157081.ts
 http://humiptv.live:8080/live/nbw319/gur538/157081.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Zee Cinema Hd
@@ -339,6 +342,7 @@ http://208.86.19.13:81/16.stream/index.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CCTN Tv
+http://45.5.117.182:8000/play/a0j4/index.m3u8
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:D4N-IPTV
 
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
@@ -396,7 +400,8 @@ http://parkpay.live:8080/overkill/dB2hBKSxdP/5855
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",S Sports 1
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://103.167.167.5:8111/play/a02m/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS."bEin-Sports 3
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS.",Viaplay
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 http://103.167.167.5:8111/play/a02n/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCoSvY0eUgTBb2jbppGZ_0YYEtUqPWAt9m9g&usqp=CAU" group-title="SPORTS.",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
