@@ -430,6 +430,7 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
+https://sr.live12.ir/hls2/syria1.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://iptv-tn.com:8080/live/gangastv@telegramm/nevado1_site-ruecoyaro.site/62756.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
