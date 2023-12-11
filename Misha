@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",বি-টিভি
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x94984" group-C-TV="BANGLA ENT.",সি-টিভি
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvnational-ctg.stream/chunks.m3u8
@@ -178,10 +177,11 @@ https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.109.56.116/live/skyfeed1021/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",সানান্দা টিভি
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",আপন টিভি
+https://cloud7.raytahost.com/live/apontv/index.m3u8
 http://bdip.ddns.net:1895/live/iptv/chunklist_w910351673.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",বাংলা টকিজ
-http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",গ্লোবাল টিভি
+http://livetvbox.live:8080/live/Juan/Juan/4231.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-KHUSBOO-BANGLA="BANGLA MOVIE.",খুশবু বাংলা-টিভি
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTpHsn891JIjVgHxoAiq6aYs7lkZHt3GkqA&usqp=CAU" group-title="BANGLA ENT.",R-মিউজিক
@@ -445,7 +445,8 @@ https://gdlmovies.tech/Discovery+/api/Eurosport.m3u8
 #EXTINF:0 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png" group-title="SPORTS.",Sports Tv
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://eas4.gcdn.co/UKS36/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS."CCTV5+Sport
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",ESPN
+http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
