@@ -462,6 +462,7 @@ https://sr.live12.ir/hls2/syria1.m3u8
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 http://iptv-tn.com:8080/live/gangastv@telegramm/nevado1_site-ruecoyaro.site/62756.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
+http://37.49.225.197:8080/F17744/SHMbJjadvzkxm3BE/151863
 http://livespecial.multistreamz.com:8081/minerva/tensports/playlist.m3u8
 http://humiptv.live:8080/live/242425/242425/98.ts
 "https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",&&
@@ -470,10 +471,6 @@ https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_BTS/Fallba
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Fox Sports 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",JSports 2
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
-http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Ster 1
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster 2
@@ -482,7 +479,10 @@ http://parkpay.live:8080/overkill/dB2hBKSxdP/5855
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",S Sports 1
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://103.167.167.5:8111/play/a02m/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",VIVAPLAY
+#EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",S Sports 2
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",beIN SPORTS
+http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/110
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS.",Viaplay Extra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
