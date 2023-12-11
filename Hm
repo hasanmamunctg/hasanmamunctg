@@ -190,7 +190,7 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTpHsn891JIjVgHxoAiq6aYs7lkZHt3GkqA&usqp=CAU" group-title="BANGLA ENT.",R-মিউজিক
 https://ythls.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="HINDI MOVIE.",Mbc Bollywood
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="Hindi Movies.",GEM Bollywood
 https://live.himel-himu@1rdk.short.gy/TSports-HD-Bdix/hls/Himel-Op.m3u8
 https://hd.90minlive.online/live/gemboll/playlist.m3u8
@@ -512,7 +512,7 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8?free_iptv_m3u8_link%27s
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Rtv SPORTS 
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SPORTS 18
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
+https://prohttps://streams.bitmovin.com/clrhjubjc366kndrc0a0/manifest.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TRUE SPORTS 3
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
 
