@@ -17,6 +17,7 @@ http://sansat.net:25461/live/sohrab/Ahfd34DSf86sfDVG234Sogf12/100687.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-R-TV="BANGLA ENT.",আর-টিভি(BDIX)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-BANGLA-VISION="BANGLA ENT.",বাংলাভিশন-টিভি
+http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-MACH-RANGA="BANGLA ENT.",মাছরাঙা-টিভি
 https://niptv.kitv.live/MAASRANGA-TV/index.m3u8
@@ -56,6 +57,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://livetvbox.live:8080/live/Juan/Juan/397.ts
 
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-DESH-TV="BANGLA ENT.",দেশ-টিভি
+http://galaxyiptv.pro:8080/asimbutt/000423/178396
 http://parkpay.live:8080/overkill/dB2hBKSxdP/3111
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
 http://103.109.56.116/live/skyfeed1006/index.m3u8
@@ -71,6 +73,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-id="ext"https://www.metvbd.com/media/common/logo.png group-title="Channels",মি টিভি
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:0 tvg-logo="https://www.thenrb.tv/video-thumbnail/_ngDhYtw98DD0O3oQqsSW5eb98bb0113e2_1589218224.jpg" group-NRB-TV="BANGLA ENT.",এনআরবি-টিভি
+http://livetvbox.live:8080/live/Juan/Juan/1000.ts
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm5N9ZuU16LlWzGodRaL_c8-EZncNvaqLW6g&usqp=CAU" group-CUMILLA-TV="BANGLA ENT.",মাতৃভূমি টিভি
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
@@ -222,6 +225,7 @@ https://livectv.phando.com/8029/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNStmeIQpe4pTxs94MTXed-SUZS1BdLw_2kQ&usqp=CAU" group-title="HINDI MOVIE.",Hasti Tv
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLgQJzNFOX0-k8WcYH9sFVXZeKakN1i-3mLwv2NbbANu5ZHd76G0QaDc&s=10" group-title="HINDI MOVIE.",Sony-Max Hd
+http://103.141.2.37:25461/live/web/web/552.m3u8
 http://208.86.19.13:81/7066.stream/index.m3u8
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/9373.ts
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
@@ -286,7 +290,8 @@ http://142.132.136.139:8000/play/a003/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Xtrema Cine Hindi 
 https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Joj Cinema 
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
 https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Rock Action 
 http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
@@ -309,11 +314,13 @@ https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/62407
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Netflix Horror
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Mnx hd
+http://103.141.2.37:25461/live/web/web/574.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 http://aumaletv.com:25461/bestfreeiptvdaily.blogspot.com539/123456/59769
 http://5.9.150.76/horrorhd/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Netflix
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Romedy now
+http://103.141.2.37:25461/live/web/web/575.m3u8
 http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/8721a4d3-b64e-4529-b3fb-8109327f22a9.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="ENGLISH MOVIE.",Groovy Tv
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
@@ -329,7 +336,8 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://210.210.155.37/session/e5da17ea-2038-11ed-a357-8629b49b6726/uq2663/h/h193/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Crystal Movie
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Lotus Macau
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Sony pix hd
+http://103.141.2.37:25461/live/web/web/561.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Hbo Tv
 http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
@@ -362,7 +370,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Kix
 http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Action 24 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Paramount
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10871
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Նոր Հայաստան
 http://ott-cdn.ucom.am/s12/index.m3u8
@@ -442,7 +451,8 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://live.himel-himu.tk/live/tsports_live_720/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXbSWMPISMzgmCJt6gY3YdknCIZDkoAjt9g&usqp=CAU" group-title="beIN SPORTS.",Art Sports 
 https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Euro Sport
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Sky Sports Football
+http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
 https://food-dlvr-ott.akamaized.net/primary/2/39a7e16da8744ad7a3fbeecf7c6473ed/index_32.m3u8
 https://gdlmovies.tech/Discovery+/api/Eurosport.m3u8
 #EXTINF:0 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png" group-title="SPORTS.",Sports Tv
