@@ -337,7 +337,7 @@ http://210.210.155.37/session/e5da17ea-2038-11ed-a357-8629b49b6726/uq2663/h/h193
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Crystal Movie
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Sony pix hd
-http://livetvbox.live:8080/live/Juan/Juan/98846.ts
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Hbo Tv
 http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
@@ -459,7 +459,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://eas4.gcdn.co/UKS36/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",ESPN
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",F2 SPORTS 
+https://play1nm.hnyongshun.cn/live/sd-y39mp1hzypvpmoj.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 http://92.46.127.146:8080/qazsport/index.m3u8
@@ -507,7 +509,11 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8?free_iptv_m3u8_link%27s
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Rtv SPORTS 
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",4 SPORTS
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SPORTS 18
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=2906400.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TRUE SPORTS 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/be77416d-d679-4a4e-a408-d6bd7960cb5c.m3u8
 
