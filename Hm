@@ -417,6 +417,7 @@ https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/138389
 #EXTINF:0 tvg-id="tv1000" group-title="ENGLISH MOVIE.",TNT
+http://190.149.66.90:4000/play/a03m/index.m3u8
 http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Cinema+Tv
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
@@ -463,6 +464,7 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
 https://play1nm.hnyongshun.cn/live/sd-y39mp1hzypvpmoj.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Qaz Sport HD
+http://190.149.66.90:4000/play/a03e/index.m3u8
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
