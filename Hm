@@ -11,6 +11,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://cdn8.aliflailabd.com/Channel-i/index.m3u8
 http://208.86.19.13:81/510.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-E-TV="BANGLA ENT.", একুশে-টিভি
+https://cdn8.aliflailabd.com/Ekushey-TV/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-E-TV="BANGLA ENT.",এন টিভি
 https://cdn8.aliflailabd.com/ntv/index.m3u8
@@ -187,18 +188,23 @@ https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://103.109.56.116/live/funtime109/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-VOICE-TV="BANGLA ENT.",জাগো নিওজ
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪
+https://cdn8.aliflailabd.com/News-24/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x39333" group-INDEPEDENT-TV="BANGLA NEWS.",ইন্ডিপেন্ডেন্ট-টিভি(BDIX)
 http://103.109.56.116/live/skyfeed1012/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.channel24bd.tv/assets/importent_images/logo.png" group-CHANNEL-24="BANGLA NEWS.",চ্যানেল-২৪(BDIX)
+#EXTINF:0 tvg-logo="https://www.channel24bd.tv/assets/importent_images/logo.png" group-CHANNEL-24="BANGLA NEWS.",চ্যানেল-২৪
+https://cdn8.aliflailabd.com/CHANNEL-24/index.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVabjzOoquPt1dX0e0NmgE_HJxbci6DDuG4A&usqp=CAU" group-JOMUNA-TV="BANGLA NEWS.",যমুনা-টিভি(BDIX)
 http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVabjzOoquPt1dX0e0NmgE_HJxbci6DDuG4A&usqp=CAU" group-JOMUNA-TV="BANGLA NEWS.",TBN 24 USA
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",আপন টিভি
@@ -300,7 +306,8 @@ https://cdn8.aliflailabd.com/mtv/index.m3u8
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 https://livectv1.phando.com/8009/chunklist0.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvugKNCpNR2K4PFwmQSqqVhsTHL01VrhQhfA&usqp=CAU" group-title="HINDI MUSIC.",Asia Music
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvugKNCpNR2K4PFwmQSqqVhsTHL01VrhQhfA&usqp=CAU" group-title="HINDI MUSIC.",VH1
+https://cdn8.aliflailabd.com/VH1/index.m3u8
 http://142.132.136.139:8000/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
