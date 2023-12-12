@@ -199,24 +199,16 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="HINDI MOVIE.", R Cinema Bollywood 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="HINDI MOVIE.",R Cineplax
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="HINDI MOVIE.",Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yhcssyEhua3hEQ1YCkKjabyYf_MNmjLubw&usqp=CAU" group-title="HINDI MOVIE.",Bollywood Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yhcssyEhua3hEQ1YCkKjabyYf_MNmjLubw&usqp=CAU" group-title="HINDI MOVIE.",Bollywood Classic 
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/3751.ts
-https://livectv.phando.com/8055/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yhcssyEhua3hEQ1YCkKjabyYf_MNmjLubw&usqp=CAU" group-title="HINDI MOVIE.",Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yhcssyEhua3hEQ1YCkKjabyYf_MNmjLubw&usqp=CAU" group-title="HINDI MOVIE.",& Pictures
 https://cdn8.aliflailabd.com/and-Picture-HD/index.m3u8
-https://news-live-cfgroup.zee5.com/out/v1/ed48c44d019c4d8ab8f5de130dc5c1cd/index-connected.m3u8
-
-
-https://livectv.phando.com/8079/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yhcssyEhua3hEQ1YCkKjabyYf_MNmjLubw&usqp=CAU" group-title="HINDI MOVIE.",B4u Plus
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/3745.ts
-http://2hubs.ddns.net:25461/BabNour/telegrramm/69445
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/52496.ts
