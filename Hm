@@ -213,7 +213,7 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 https://ythls.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="HINDI MOVIE.",Mbc Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="Hindi Movies.",R Cinema Bollywood 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="Hindi Movies.",R Cineplax 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="HINDI MOVIE.", R Cinema Bollywood 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
@@ -279,18 +279,19 @@ http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
 https://www.yupptv.com/channels/mastiii/live
 #EXTINF:0 tvg-logo="https://i.postimg.cc/br7ZzX3R/IMG.jpg" group-title="HINDI MUSIC.",Music India 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
-#EXTINF:0 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/Nazrana.jpg" group-AM="HINDI MUSIC.",M Tv
-https://cdn8.aliflailabd.com/mtv/index.m3u8
+
 https://live.hungama.com/linear/nazrana/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",Dil Se Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",B4u Music
 http://longstream-01.ajaah.com/PlayBoxTV/B4UMusic/playlist.m3u8
 https://livectv.phando.com/8005/chunklist0.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",Love Music
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",M tv Bites
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 https://livectv1.phando.com/8047/chunklist0.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",M Turns Music
+#EXTINF:0 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/10/Nazrana.jpg" group-AM="HINDI MUSIC.",M Tv
+https://cdn8.aliflailabd.com/mtv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",M Tv+
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 https://livectv1.phando.com/8009/chunklist0.m3u8
@@ -396,8 +397,8 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",GEM Film
-https://hd.90minlive.online/live/gemfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Lotus Macau 
+https://cdn8.aliflailabd.com/lotus-macau/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 
@@ -562,7 +563,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 http://live.flixhub.net/hls/ngohd.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoT_ZuLoFY57R03hJLYMoHLksOI75tnwKuow&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="GEOGRAPHIC.",Natgeo Wild 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SVJjzgsPzOd5oiY9qRJ2yt--IBQ0tJdONw&usqp=CAU" group-title="GEOGRAPHIC.",Natgeo Wild
+https://cdn8.aliflailabd.com/nat-geo-wild/index.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 http://stream.freedvb.com:80/hls/72b7ad08.m3u8
 #EXTINF:0 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="DOCUMENTARY.",Nasa TV
