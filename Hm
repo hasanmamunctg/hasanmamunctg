@@ -53,8 +53,8 @@ http://bd.jagobd.com:1931/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",ফাল্গুনী টিভি 
 http://khan.qcast.live:1009/falgunitv/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-"BANGLA ENT.",চ্যানেল-৯
-https://cdn8.aliflailabd.com/Channel-9/index.m3u8
 http://livetvbox.live:8080/live/Juan/Juan/434.ts
+https://cdn8.aliflailabd.com/Channel-9/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-"BANGLA ENT.",নাগরিক টিভি
 https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeleurope.stream/playlist.m3u8
