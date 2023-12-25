@@ -54,7 +54,7 @@ http://livetvbox.live:8080/live/Juan/Juan/430.ts
 #EXTINF:0 tvg-id="ext"https://www.metvbd.com/media/common/logo.png group-title="Channels",মি টিভি
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:0 tvg-logo="https://www.thenrb.tv/video-thumbnail/_ngDhYtw98DD0O3oQqsSW5eb98bb0113e2_1589218224.jpg" group-NRB-TV="BANGLA ENT.",এনআরবি-টিভি
-http://livetvbox.live:8080/live/Juan/Juan/1000.ts
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",মুভি-বাংলা
 http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA MOVIE.",কিডস কার্টুন
@@ -73,6 +73,8 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.",ই-টেন টিভি
 https://iptvbd.live/test/1080.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.",চ্যানেল ইউরোপ
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAl_kRd7SGrp9oWnGHPW4OdFBjjeemXUQSYA&usqp=CAU" group-CNN-BANGLA 2="BANGLA MOVIE.",চ্যানেল এস
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FJBN24udmW4Oh4sytPTq224RgBCOc6kU3w&usqp=CAU" group-MEGNA-TV="BANGLA ENT.",আই বি টিভি
