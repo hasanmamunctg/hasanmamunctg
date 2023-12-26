@@ -91,8 +91,8 @@ http://208.86.19.13:81/501.stream/index.m3u8
 http://208.86.19.13:81/503.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA=s200" group-title="BANGLA ENT.",নন্দন-টিভি
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x53121" group-title="BANGLA ENT.",এ টি এন মিউজিক 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x53121" group-title="BANGLA ENT.",সবাই প্রাইম টিভি
+http://103.81.104.51/hls/sptv.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/itv-200x200.png" group-title="BANGLA ENT.",আই-টিভি ইউ কে
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/PNG-200x200.png" group-title="BANGLA ENT.",মীম-টিভি
@@ -133,6 +133,8 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 https://cloud7.raytahost.com/live/apontv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",দুরন্ত টিভি
 https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",তারা টিভি
+http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/CNN-Bangla.jpeg" group-CNN-BANGLA 2="BANGLA MOVIE.",আমার ডিজিটাল 
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-KHUSBOO-BANGLA="BANGLA MOVIE.",খুশবু বাংলা-টিভি
