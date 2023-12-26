@@ -265,8 +265,8 @@ http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Star Movies
 http://112.196.61.212:9292/STAR_MOVIES_FHD_VIDECON/index.m3u8
-#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",&PRIVE HD
-http://livetvbox.live:8080/live/Juan/Juan/98840.ts
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",&flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Filem & Art's 
@@ -300,7 +300,7 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Lotus Macau 
-https://cdn8.aliflailabd.com/lotus-macau/index.m3u8
+http://livetvbox.live:8080/live/Richard/Richard/23428.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies
@@ -372,7 +372,7 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster 2
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",S Sports 1
-http://103.109.56.116/live/skyfeed1004/index.m3u8
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/2508/index.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",S Sports 2
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",18 SPORTS
@@ -393,8 +393,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TRUE SPORTS 3
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Sky Net
-https://cdn8.aliflailabd.com/sky-net-2/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",bine Sports 
+http://9jeixdcy.rostelekom.xyz/iptv/NQDL3QT8F6XNHD/19062/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Sony Six
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SSC 1
@@ -402,7 +402,7 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Aio Sport 1 
 https://af.ayas.ir/hls2/aiosport.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TYC SPORTS
-http://45.179.140.242:8000/play/a0k7
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Setanta Sports 1
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Setanta Sports 2
