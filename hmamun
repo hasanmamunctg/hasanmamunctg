@@ -22,7 +22,7 @@ https://niptv.kitv.live/MAASRANGA-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngr59cKSrXstL9C_4Ub7Y5SEntMUUXfUITGWli_gw=s900-c-k-c0x00ffffff-no-rj" group-SA-TV="BANGLA ENT.",এস এ-টিভি
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-DEEPTO-TV="BANGLA ENT.",দিপ্ত-টিভি
-http://103.109.56.116/live/skyfeed1011/index.m3u8
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-BANGLA-TV="BANGLA ENT.",বাংলা-টিভি
 https://1rdk.short.gy/Himel-Op/live-bangla-tv.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-ANANDA-TV="BANGLA MOVIE.",আনন্দ-টিভি
@@ -246,7 +246,7 @@ http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Mn+
-http://livetvbox.live:8080/live/Juan/Juan/98847.ts
+http://103.132.181.118:82/play/a00t
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-3XZcSrrEyt3h7ejQSiL2FmowjTsmWyPNw&usqp=CAU" group-title="ENGLISH MOVIE.",Star+
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="ENGLISH MOVIE.",Groovy Tv
@@ -382,7 +382,7 @@ http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/2508/index.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",S Sports 2
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",18 SPORTS
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS.",Viaplay Extra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCoSvY0eUgTBb2jbppGZ_0YYEtUqPWAt9m9g&usqp=CAU" group-title="SPORTS.",Trace Sports
@@ -399,20 +399,20 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TRUE SPORTS 3
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",bein Sports 
-http://9jeixdcy.rostelekom.xyz/iptv/NQDL3QT8F6XNHD/19062/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Sony Six
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",bein Sports 1
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",bein Sports 2
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",bein Sports 3
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",FIFA Plus
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SSC 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Aio Sport 1 
 https://af.ayas.ir/hls2/aiosport.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Setanta Sports 1
-https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Setanta Sports 2
-https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZKjZjHBvcsSsdJTpKbCBLsR8XELtE-3JhQ&usqp=CAU" group-title="FISHING.",Wired 2-Fish
