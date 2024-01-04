@@ -46,13 +46,13 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEY7F1pJQTkvGgLwqs9ChOt_m7t9K4kgmkg&usqp=CAU" group-MOHONA-TV="BANGLA MOVIE.",মোহনা-টিভি
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEY7F1pJQTkvGgLwqs9ChOt_m7t9K4kgmkg&usqp=CAU" group-MOHONA-TV="BANGLA MOVIE.",নেক্সাস টিভি
-https://nayeem-ayna1.000webhostapp.com/ayna.php?id=32&e=.m3u8|User-Agent=nayeem
+https://bdtubelive.xyz/bdix.m3u8?id=nexus-television-hd
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYEY7F1pJQTkvGgLwqs9ChOt_m7t9K4kgmkg&usqp=CAU" group-MOHONA-TV="BANGLA MOVIE.",গ্লোবাল টিভি
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-DESH-TV="BANGLA ENT.",দেশ-টিভি
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
-https://nayeem-ayna1.000webhostapp.com/ayna.php?id=19&e=.m3u8|User-Agent=nayeem
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-ASIAN-TV="BANGLA ENT.",এশিয়ান-টিভি
 http://103.77.218.14:8080/memfs/97472e6e-6ed5-4b29-a19b-9bf0c75f6446.m3u8
 #EXTINF:0 tvg-id="ext"https://www.metvbd.com/media/common/logo.png group-title="Channels",মি টিভি
@@ -128,7 +128,6 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",টাইম ২৪
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",দি চ্যানেল টিভি
-https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",ইকরা টিভি
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
@@ -142,6 +141,8 @@ https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",জাগো নিওজ 
 https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-VOICE-TV="BANGLA ENT.",MILLENNIUM TV 24 NEWS
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-VOICE-TV="BANGLA ENT.",এখন নিওজ
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪
@@ -214,10 +215,14 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee Classic 
 http://195.26.87.217/live.ts?channelId=43379&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",Zing Tv
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4U-Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",Jou MUSIC 
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",BFlix Movies
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",Dhinchaak
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Bindass
@@ -251,7 +256,7 @@ https://cdn8.aliflailabd.com/mtv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",M Tv+
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvugKNCpNR2K4PFwmQSqqVhsTHL01VrhQhfA&usqp=CAU" group-title="HINDI MUSIC.",VH1
-https://cdn8.aliflailabd.com/VH1/index.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=vh1&e=.m3u8|User-Agent=nayeem
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Xtrema Cine Hindi 
@@ -337,7 +342,7 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Lotus Macau 
-http://livetvbox.live:8080/live/Richard/Richard/23428.m3u8
+https://bdtubelive.xyz/bdix.m3u8?id=lotus-macau-live
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Gravitas Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Movies
@@ -366,6 +371,10 @@ http://190.149.66.90:4000/play/a03m/index.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CCTN Tv
 http://45.5.117.182:8000/play/a0j4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Hits Movie
+http://210.210.155.37/session/f73ff388-b2d2-11ed-8d27-c81f66f89318/dr9445/h/h38/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",ChiaMovie
+https://edge2.laotv.la/live/ChinaMovie/sc-gaFECQ/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",Wu Tang Collection
@@ -473,7 +482,7 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTae16trv9RsqYJwwPTHbCUbI6m-vp6MWNIwA&usqp=CAU" group-title="LIFESTYLE."Nature Tv
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet Hindi
-http://103.109.56.116/live/funtime1025/index.m3u8
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VVPrxlQqRe9E0u-Vf3qEV4yLcXCSs7_0dg&usqp=CAU" group-title="GEOGRAPHIC.", Discover Pki
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXguDnxRnOv_Uy9OpVnAffOhFO7YkKKyinA&usqp=CAU" group-title="GEOGRAPHIC."National Geographic
