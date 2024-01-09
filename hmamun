@@ -242,7 +242,7 @@ http://longstream-03.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",9x Tashan 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="HINDI MUSIC.",8xm
-https://cdn8.aliflailabd.com/8xm/index.m3u8
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/br7ZzX3R/IMG.jpg" group-title="HINDI MUSIC.",Zoom-Music
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://i.postimg.cc/br7ZzX3R/IMG.jpg" group-title="HINDI MUSIC.",Mastiii Tv
@@ -294,7 +294,7 @@ http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:0 tvg-id="Tcaction.br" group-title="ENGLISH MOVIE.",C Tv
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Cinema World TV 
-http://210.210.155.35/dr9445/h/h04/index.m3u8
+http://g4b.alwaysdata.net/sonymoviesbr.m3u8
 #EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Mfc Tv
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 #EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",MCA Tv
@@ -311,6 +311,8 @@ http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",&flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",&Prive Tv
+http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",ACTION HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Filem & Art's 
@@ -397,8 +399,8 @@ http://ott-cdn.ucom.am/s52/01.m3u8
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
 https://1rdk.short.gy/T-Sports/Himel-Op.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXbSWMPISMzgmCJt6gY3YdknCIZDkoAjt9g&usqp=CAU" group-title="beIN SPORTS.",Art Sports 
-https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXbSWMPISMzgmCJt6gY3YdknCIZDkoAjt9g&usqp=CAU" group-title="beIN SPORTS.",M4A Sports 3
+http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Sky Sports Football
 http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:0 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png" group-title="SPORTS.",Sports Tv
@@ -417,8 +419,8 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Fox Sports 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Sony liv
-https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",W SPORTS 
+http://210.210.155.35/uq2663/h/h26/S4/mnf.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster 2
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",S Sports 1
