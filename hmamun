@@ -512,9 +512,9 @@ http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",CLo
 http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Mundo Tv
-https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="Animal.",MRTV Farmers
-http://183.89.246.119:8881/play/a07p/index.m3u8
+http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="Animal.",Viasat History
 http://ott-cdn.ucom.am/s23/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="Animal.",Xtrema Animal
