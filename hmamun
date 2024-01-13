@@ -12,7 +12,7 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://ekusheyserver.com/etvlivesn.m3u8" group-E-TV="BANGLA ENT.", একুশে-টিভি
 https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-E-TV="BANGLA ENT.",এন টিভি
-http://103.230.105.252:1935/live/ntv/manifest.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/ekushe-tv-etv-logo-0CFEFFEC48-seeklogo.com.png" group-E-TV="BANGLA ENT.",এন টিভি ইউরোপ 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-R-TV="BANGLA ENT.",আর-টিভি
@@ -447,6 +447,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Fox Sports 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster SPORTS 1
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster SPORTS 2
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Star Sports Select 1
