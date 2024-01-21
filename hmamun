@@ -206,7 +206,7 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Star-Gold Silect
 http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tpx9AoVUaX_AN80nBP1_05b6ksF4bPqnZg&usqp=CAU" group-title="HINDI MOVIE.",Star-Gold Thrills
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:03:8a:5b&stream=155996&extension=m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 
 http://195.26.87.217/live.ts?channelId=196&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/01/29/star-gold2.jpg" group-title="HINDI MOVIE.",Star-Gold 2
@@ -265,8 +265,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/.m3u
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=vh1&e=.m3u8|User-Agent=nayeem
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Xtrema Cine Hindi 
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="ENGLISH MOVIE.",Rasi Hollywood 
+http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Rock Action 
 http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Rock 
@@ -297,6 +297,12 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://210.210.155.37/session/e5da17ea-2038-11ed-a357-8629b49b6726/uq2663/h/h193/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Crystal Movie
 http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",CCM Tv
+http://210.210.155.37/x6bnqe/s/s31/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Cinemax
+http://88.212.7.11/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Fx
+http://170.254.18.106/FX/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Movie 
 http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ENGLISH MOVIE.",Axn
