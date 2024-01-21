@@ -452,9 +452,9 @@ http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",SuperSport Football
 http://supersonictv.live:8080/419094/970686/86869
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.", Setanta Sports 1
-https://bal.varcdn.top/setanta1/index.m3u8
+https://e3.varcdn.top/setanta1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScYtjMNMAWGthy0EyV2KQ1xCH87qWH-XNMLQ&usqp=CAU" group-title="SPORTS.",Setanta Sports 2
-https://bal.varcdn.top/setanta2/index.m3u8
+https://e3.varcdn.top/setanta2/index.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",J SPORTS 1
