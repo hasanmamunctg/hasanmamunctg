@@ -499,9 +499,9 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",UsA SPORTS 
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Prime Sports 
-http://202.21.104.6:88/sps-prime/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Prime Sports 1
+http://202.21.104.6:88/sps-prime/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Premier Sports 1
 https://mlb.mrgamingstreams.com/prem.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",TnT Sports 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
