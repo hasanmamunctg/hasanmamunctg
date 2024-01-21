@@ -129,14 +129,16 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",দি চ্যানেল টিভি
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",ইকরা টিভি
-https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",আর টিভি মিউজিক 
+https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",এটিএন-মিউজিক
 https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",গান বাংলা
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",এটি এন ইসলামিক 
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",ইকরা টিভি
+https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",টিভি ওয়ান
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",পিস টিভি বাংলা
@@ -482,11 +484,11 @@ http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCU
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Fox Sports 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster SPORTS 1
-
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster SPORTS 2
-
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Star Sports Select 1
-http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/2508/index.m3u8
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports Select 2
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",18 SPORTS
@@ -557,11 +559,8 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",Eurosport1
 https://cdn-main.lolokoko.tv/Eurosport1.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Sport Kyrgyzstan
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.", Espn Sport
 https://st2.mediabay.tv/KG_KTRK-Sport/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Realitatea Sportiva
-https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Polsat Sport 
 https://cdn-main.lolokoko.tv/PolsatSport.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",DTXTv
