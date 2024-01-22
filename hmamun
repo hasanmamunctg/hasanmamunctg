@@ -415,6 +415,12 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="English Movies.",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",eM Tv
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist_w265256731.m3u8
+#EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Fox Movies 
+https://lnc-cinevault-80s.tubi.video/1200.m3u8
+#EXTINF:0 tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",My Time Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="ENGLISH MOVIE.",CBL 2 Action
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",SEO Tv
