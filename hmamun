@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj59kWWmRtBT56vknlc5YlwtIdGj900qEFPIrUTrTnvORUPSYkbZKAh2FMMNmzlfbFROhKmlgbiISALt7on7OK_vqNyLWYyrBXmljhfdZrMioDoIQ6K1jKBqdvmSBDlVll6mah0F5bJBOC8zl95DhpMvG-odihZzrnnOx-l22AdtpFMY9rQtIVyuDg60SY/w93-h94-p-k-no-nu/Picsart-23-06-07-10-32-27-069.png=w74-h74-p-k-no-nu" group-B-TV="BANGLA ENT.",B-Tv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWDjpLhjYaFVEG0XqRZNu9piWAdTxx8nUH5NA4yglCJzWeWHfCEc_9dwcbt8zuj2SHpURw_24MGbDzEZx_tQkKzH_hM_CDApTW0nSZZSjFYrnx75B9HZ0R4Hu0-EeK9efYUc_fWjFIWCvaNlIkvvJdZl40jONsclyNjQQLdhPdTt9dFUppMIVrbKpeBMI/w93-h94-p-k-no-nu/Picsart-23-06-12-22-23-10-612%20(1).png=w74-h74-p-k-no-nu" group-B-TV="BANGLA ENT.",B-Tv
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=1
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x94984" group-C-TV="BANGLA ENT.",C-Tv
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
@@ -30,7 +30,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.jagobd.com.bd/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-BIJOY-TV="BANGLA MOVIE.",বিজয়-টিভি
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",গ্রিন টিভি
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0z1vIsGFWBcQHWU53BSj1ws9anZ30M8mlvHYdIrybSdpt6W2unqRYM6DtFTUDBB-7ZyPd-Uv19CLBvr9zBw_vs-Q5x6Fvcxh2H_f6cEP7T5dYWvmXz-5_y9JSjCcT4r_2pvaFlL4ZEnRJD1DXfSLNHOYabh2mlWkthosaMk7IFJB7XPD0EhhQHmshKA8/w93-h94-p-k-no-nu/download%20%289%29.jpeg=w74-h74-p-k-no-nu" group-B-TV="BANGLA ENT.",Green Tv 
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-"BANGLA ENT.",চ্যানেল-৯
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
@@ -122,27 +122,27 @@ https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",বাংলা ২৪ কানাডা
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/b24c.stream/live-orgin/b24c.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",দেশ বিদেশ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",দেশ বিদেশ 
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",টাইম ২৪
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",টাইম ২৪
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",দি চ্যানেল টিভি
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",দি চ্যানেল টিভি
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",আর টিভি মিউজিক 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",আর টিভি মিউজিক 
 https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",এটিএন-মিউজিক
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",এটিএন-মিউজিক
 https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",গান বাংলা
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",গান বাংলা
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",এটি এন ইসলামিক 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",এটি এন ইসলামিক 
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",ইকরা টিভি
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",ইকরা টিভি
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",টিভি ওয়ান
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",টিভি ওয়ান
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",পিস টিভি বাংলা
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-title="BANGLA ENT.",পিস টিভি বাংলা
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-#EXTINF:0 tvg-id="ext" group-title="BANGLA ENT.",জাগো নিওজ 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZK8LB0xqL_pA3Tfwdp14U86qw-YLVU7cNtj4sFeRVJWbTFxWCxPNPxwtchxjL8a8CWKfbfZEEOwr1GMBEfy-i-G49nYnAucGAeEIidL-QhSqRIspObyzsnGullErvqGD43k2xEtXhLNcVEMKyKkiKn2SF_UDogRISmKSQogVyYsbjv-9f6uxTCg6lR9E/w93-h94-p-k-no-nu/logo.webp=w74-h74-p-k-no-nu" group-title="BANGLA ENT.",Jago News 24 Tv
 https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVZpsGGEom3IuTydQYb669q3HRAYO0F0rOw&usqp=CAU" group-VOICE-TV="BANGLA ENT.",MILLENNIUM TV 24 NEWS
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/chunks.m3u8
@@ -460,7 +460,7 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Sky Sports Football
 http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzdB6eNwtracjIJSraJNx1qYbbBfKcc4GiQ&usqp=CAU" group-title="SPORTS.",SuperSport Football
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNdFWRnBMZ1pJ4szLp7HMtlABmMw1S5KiTXB8ChXAl4tvG_WP2dWv__z-w0Ga-poDdcLpRm1h1uCkQqT9thg8nfntTDTsxYBtipyUU2x67-oqK6xZpoHi5kQ6RnH5EEvpAP2WbxFlk48S7StizL6H0zOvKsWcICIk6R3ZlzRMXEbjWxKE3XxxtXwT/w93-h94-p-k-no-nu/20221113_205839.jpg=w74-h74-p-k-no-nu" group-title="SPORTS.",SuperSport Football
 http://supersonictv.live:8080/419094/970686/86869
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
@@ -468,7 +468,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",Fox Sports 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-kwWcSABqVvh5Jlf9mYalVKjeN2wMXuCqWyQRWSSjJIWFd8lcQtcvxdUlPAmBKgnbd1YJx4_RQO0OPtY3qZk2jOeKPfqqLJs_j3nmDKO-ZjsjBxcx88tXIjhIlZNmaoHVR1dJV8C5VRADWwm_elcv65Mi8iQOhzyCHAQ16uQ1yx36JFdG5IWVo4L8/w93-h94-p-k-no-nu/20221114_230637.jpg=w74-h74-p-k-no-nu" group-title="WRESTLING.",Fox Sports 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Ster SPORTS 1
 http://103.109.56.116/live/skyfeed1002/index.m3u8
@@ -486,17 +486,17 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",UsA SPORTS 
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Prime Sports 1
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yoHXCD9CKEQrhI5d0IqXmFAFkPHrpPnI48ue0B8-bGftPvaMhO3wV3CRXY_0MbiLpb9a4CRUJtJ9Q8GmX2LQi7kFQLkPjDdkfgvgnBdhyphenhyphenDki2P59UqJ2mhaZ0bvsUVfAWC7LOLLJsLmbh5kjAs2xSEpBjropahuVuMBUdSF34GW4KYFvFZtGw9ZGHlQ/w93-h94-p-k-no-nu/images%20%281%29.png=w74-h74-p-k-no-nu" group-title="SPORTS.",Prime Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Premier Sports 1
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW0Oy8XSqXfx-pD0MdkmTdxFx3HSStl7ou3jQFlTRTyANhf0O3lKcYFdZdbRW4ujnWDVSbBRh9uPf6mEtdmOk8py1Q99FRgdNLzRQueMrJ1PCwP8g0_iiFRSFIWy6bfoX0jEMkmYodvBWAay09NSATWe1x28pjcAe8EqCIQI-EnH1J-3y725YCgHI/w93-h94-p-k-no-nu/20221113_205718.jpg=w74-h74-p-k-no-nu" group-title="SPORTS.",Premier Sports 1
 https://mlb.mrgamingstreams.com/prem.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",TnT Sports 1
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheX8c3KKY6B9V1O1OM8-zeO4yR7OMkd77rNTVV3DHaZNV5JjtH85j9hFFyRjCTP0yqtJ6z5gNIkRjwchidKNOhiDGIP60FPzTMiu5J3KOoGJstkOytUwpC0F9rX1gzEbjZwiNnFbEqSuKZsx3GHzyUZHUUIKzxY6zO7szS0SudwEBf513LJHgw86VZXpc/w93-h94-p-k-no-nu/download%20%281%29%20%288%29.png=w74-h74-p-k-no-nu" group-title="SPORTS.",TnT Sports 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TnT Sports 2
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil9s7FLG6FwBLKSYWKasNK9sIrv9Ec0EEGoWfqIsshounf0QA_YO6vECjYgmfidEQxHZZnF-7k_AoN00Q-0c2FXW4dQYWQefQBf10IcNQnHwIIqm71T9y-J7-WJ_rgZxJgij2d05tdrvOhrqedBngLu_mwtYV4yKenrucaTDzgRMbLuteb77GVS9Hh6Gc/w93-h94-p-k-no-nu/download%20(12).jpeg=w74-h74-p-k-no-nu" group-title="WRESTLING.",TnT Sports 2
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TnT Sports 3
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-_XKRosr7NGQG0TaoUvGv_bJNkY5NjzhI4Xu23LexEIXYtG8Rhy3vqKHubEtaOfvZyFxNuBKkZTUlHg9NT-3ztiUyP1Ru0Nbt-VF-clgEbbH8zRZZX-qv9RrwcGxW6BSK2jhNxzno2qC8fwzIONCIoBn07AXOnugFupulmsOB8q1lmIkKh8cilew4qEA/w93-h94-p-k-no-nu/download%20%281%29%20%284%29.png=w74-h74-p-k-no-nu" group-title="WRESTLING.",TnT Sports 3
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TnT Sports 4
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWGoHepJfDuNKO-o3sCdv_T8tgvu8UAR-fgEL18QWgZQduoVEIe4TaI28ilCle6JYvtVDsQ4xM9WrECYPrA6fonBtcGl7qO2U-odHyTp4x2LCQhL9WXlfaj2-Dlhs-GO_5-ZWvYnzxaagj0fEa1PKPUO9jKH9Gf3qqDnGInhmcVbnNCEBvpCl5r7QJtYc/w93-h94-p-k-no-nu/download%20%281%29%20%285%29.png=w74-h74-p-k-no-nu" group-title="WRESTLING.",TnT Sports 4
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",World Wrestling Entertainment
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
@@ -508,7 +508,7 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TRUE SPORTS 2
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",TRUE SPORTS 3
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-_XKRosr7NGQG0TaoUvGv_bJNkY5NjzhI4Xu23LexEIXYtG8Rhy3vqKHubEtaOfvZyFxNuBKkZTUlHg9NT-3ztiUyP1Ru0Nbt-VF-clgEbbH8zRZZX-qv9RrwcGxW6BSK2jhNxzno2qC8fwzIONCIoBn07AXOnugFupulmsOB8q1lmIkKh8cilew4qEA/w93-h94-p-k-no-nu/download%20%281%29%20%284%29.png=w74-h74-p-k-no-nu" group-title="WRESTLING.",TRUE SPORTS 3
 https://edge2.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",PPTV HD 36
 https://edge1.laotv.la/live/PPTVHD/index.m3u8
@@ -522,15 +522,15 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
 https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",bein Sports 2
 https://edge2.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",FIFA Plus 1
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRcUpzBMDYY6oNAXjqn6ANLldTZLxPsxfZRyG_0SrzrQW_QKpij20JNgBJhY7CTQ6-wsM7dBxEMD40CvQhNy2u3uRsL_xy286xlriP5DDS1vmrEVFa9cE6Y-3nUlOFaZ5_iqR0I1OKiaJpF1GY6mxib4VYWvDaC0pcff4wRFVVcsY3GVOuX_phVleE83E/w93-h94-p-k-no-nu/fifa-plus-logo-small.png=w74-h74-p-k-no-nu" group-title="WRESTLING.",FIFA Plus 1
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",FIFA Plus 2
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRcUpzBMDYY6oNAXjqn6ANLldTZLxPsxfZRyG_0SrzrQW_QKpij20JNgBJhY7CTQ6-wsM7dBxEMD40CvQhNy2u3uRsL_xy286xlriP5DDS1vmrEVFa9cE6Y-3nUlOFaZ5_iqR0I1OKiaJpF1GY6mxib4VYWvDaC0pcff4wRFVVcsY3GVOuX_phVleE83E/w93-h94-p-k-no-nu/fifa-plus-logo-small.png=w74-h74-p-k-no-nu" group-title="WRESTLING.",FIFA Plus 2
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",2 SPORTS
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8?free_iptv_m3u8_link%27s
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",ErT SPORTS 1
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SSC 1
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU4JXWf4ct6oM0MjyNVNhoTNkHzSA-8NxBiKy_MUZcLXSjAp0OAB10mjHol9bMj1LQrfvAtO0hrKkX9aRksNRubJEmJ2K0-HthFJO79dWvHC8dcA_JOGCiXyHCYJlXsbzmYkVizy4UQZJBub2zlMv3ZHi6uU85a7m8U6s0ATBUcEoyQZK0SbzbKg5d_WI/w93-h94-p-k-no-nu/20231224_162638.jpg=w74-h74-p-k-no-nu" group-title="WRESTLING.",SSC 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",Persiana Sports
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
