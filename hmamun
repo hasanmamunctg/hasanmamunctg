@@ -541,9 +541,9 @@ https://cdn-main.lolokoko.tv/CanalPlusSport3.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/CanalPlusSport4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZpPuKT5XCmnMSap6AEEgOmAuU1DktfU6uQ&usqp=CAU" group-B-TV="BANGLA ENT.",Sn Sports
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9kXkojuqcOb9cprsj0ibe5EG3aJfD9YmHQw&usqp=CAU" group-B-TV="BANGLA ENT.",Dazn Sports
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBBdW_5OGcFwbOIcK4XSCOW0sAdLHfJ0v9A&usqp=CAU" group-B-TV="BANGLA ENT.",Sports 1 Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKSPlo9TgvBIxWHvT7QtJ6cRWc-cyzwJ7dg&usqp=CAU" group-B-TV="BANGLA ENT.",Viaplay Sports 1
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHcyATuQKSg1kPQB91ZgSoRkcx44RYfjbOA&usqp=CAU" group-B-TV="BANGLA ENT.",Viaplay Sports 2
 https://hls.streambtw.com/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFMkoYPL7OSmmnuwgB_OPfbZ9Tbyn1kBxdA&usqp=CAU" group-B-TV="BANGLA ENT.",Sports 2 Tv
 https://hls.streambtw.com/live/stream_8.m3u8
