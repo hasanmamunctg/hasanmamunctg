@@ -360,7 +360,7 @@ https://cdn-main.lolokoko.tv/HBO3.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/FilmBoxPremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhnv8w0dsc0BSnsMayYvOIisxmcscK3J0vg&usqp=CAU" group-B-TV="BANGLA ENT.",Film Box Extra
 https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhnv8w0dsc0BSnsMayYvOIisxmcscK3J0vg&usqp=CAU" group-B-TV="BANGLA ENT.",Canal Plus Film
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8D_mL4ZtgIcLgJZCRx16eB_xMdxWQtHDBJg&usqp=CAU" group-B-TV="BANGLA ENT.",Canal Plus Film
 https://cdn-main.lolokoko.tv/CanalPlusFilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDkw3aR3tD_zGW6YbLgkUCGICyqpiBrnOWpw&usqp=CAU" group-B-TV="BANGLA ENT.",Movies
 https://lnc-cinevault-80s.tubi.video/playlist.m3u8
@@ -570,7 +570,7 @@ http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-3kpg31617907900448.jpg" group-title="GEOGRAPHIC.", Discover Pki
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXguDnxRnOv_Uy9OpVnAffOhFO7YkKKyinA&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.e_tMghFPTEW6O78XddrKsgAAAA?w=360&h=360&rs=1&pid=ImgDetMain" group-title="GEOGRAPHIC.",National Geographic
 http://live.flixhub.net/hls/ngohd.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.OK18hFCwouZOTyxdpc64oAHaEK?rs=1&pid=ImgDetMain" group-title="GEOGRAPHIC.",National Geographic
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
