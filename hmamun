@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWDjpLhjYaFVEG0XqRZNu9piWAdTxx8nUH5NA4yglCJzWeWHfCEc_9dwcbt8zuj2SHpURw_24MGbDzEZx_tQkKzH_hM_CDApTW0nSZZSjFYrnx75B9HZ0R4Hu0-EeK9efYUc_fWjFIWCvaNlIkvvJdZl40jONsclyNjQQLdhPdTt9dFUppMIVrbKpeBMI/w93-h94-p-k-no-nu/Picsart-23-06-12-22-23-10-612%20(1).png=w74-h74-p-k-no-nu" group-B-TV="BANGLA ENT.",B-Tv
 https://cdn.retosprime.com/ayna.php?id=1&e=.m3u8
@@ -359,7 +358,7 @@ https://cdn-main.lolokoko.tv/HBO2.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/HBO3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FilmBox_Premium_HD_logo.png/1024px-FilmBox_Premium_HD_logo.png" group-B-TV="BANGLA ENT.",Film Box Premium
 https://cdn-main.lolokoko.tv/FilmBoxPremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-B-TV="BANGLA ENT.",Film Box Extra
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhnv8w0dsc0BSnsMayYvOIisxmcscK3J0vg&usqp=CAU" group-B-TV="BANGLA ENT.",Film Box Extra
 https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhnv8w0dsc0BSnsMayYvOIisxmcscK3J0vg&usqp=CAU" group-B-TV="BANGLA ENT.",Canal Plus Film
 https://cdn-main.lolokoko.tv/CanalPlusFilm.stream/playlist.m3u8
@@ -559,7 +558,7 @@ https://cdn-main.lolokoko.tv/BBCEarth.stream/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YpEWb7txi67ih_9xdLFU4p758fPg6bFuXA&usqp=CAU" group-title="DISCOVERY.",HG-Tv
 https://cdn-main.lolokoko.tv/HGTV.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery Hd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DISCOVERY.",Discovery Hd
 https://cdn-main.lolokoko.tv/DiscoveryChannel.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
@@ -571,9 +570,9 @@ http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-3kpg31617907900448.jpg" group-title="GEOGRAPHIC.", Discover Pki
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXguDnxRnOv_Uy9OpVnAffOhFO7YkKKyinA&usqp=CAU" group-title="GEOGRAPHIC."National Geographic
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXguDnxRnOv_Uy9OpVnAffOhFO7YkKKyinA&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
 http://live.flixhub.net/hls/ngohd.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoT_ZuLoFY57R03hJLYMoHLksOI75tnwKuow&usqp=CAU" group-title="GEOGRAPHIC.",National Geographic
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.OK18hFCwouZOTyxdpc64oAHaEK?rs=1&pid=ImgDetMain" group-title="GEOGRAPHIC.",National Geographic
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/-HH4qDZivPuE/AAAAAAAAAAI/AAAAAAAAAAA/dPjv2XCNQmM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GEOGRAPHIC.",Natgeo Wild
 https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
