@@ -570,7 +570,7 @@ http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_17.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-3kpg31617907900448.jpg" group-title="GEOGRAPHIC.", Discover Pki
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.e_tMghFPTEW6O78XddrKsgAAAA?w=360&h=360&rs=1&pid=ImgDetMain" group-title="GEOGRAPHIC.",National Geographic
+#EXTINF:0 tvg-logo="https://d2lr43dcqypp5g.cloudfront.net/transforms/awsideoorg/tile_images/178256/National-Geographic-Logo_21d57d640d2b853246bac21c734c9889.png" group-title="GEOGRAPHIC.",National Geographic
 http://live.flixhub.net/hls/ngohd.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.OK18hFCwouZOTyxdpc64oAHaEK?rs=1&pid=ImgDetMain" group-title="GEOGRAPHIC.",National Geographic
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
