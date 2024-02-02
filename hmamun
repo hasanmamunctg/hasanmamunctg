@@ -168,10 +168,12 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 http://195.26.87.217/live.ts?channelId=86148&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/370/208/yupptv/roku/images/skyworth/v5/BBO-Classic_roku.jpg" group-title="HINDI MOVIE.",BBO Classic HD
 http://195.26.87.217/live.ts?channelId=86150&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.4eeb0f5dc3ef10462967787932c0d799?rik=4JMK4NB2iqNv3w&riu=http%3a%2f%2fwww.astra2sat.com%2fwp-content%2fuploads%2f2016%2f11%2fRishtey-Cineplex-e1479575823826.jpg&ehk=DXwbCLCXJqn7W0BtA48NahUUqbQ9t%2bbWLPj4gW0rJNc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-B-TV="Hindi Movies.",R Cineplax 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.4eeb0f5dc3ef10462967787932c0d799?rik=4JMK4NB2iqNv3w&riu=http%3a%2f%2fwww.astra2sat.com%2fwp-content%2fuploads%2f2016%2f11%2fRishtey-Cineplex-e1479575823826.jpg&ehk=DXwbCLCXJqn7W0BtA48NahUUqbQ9t%2bbWLPj4gW0rJNc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-B-TV="Hindi Movies.",Colors Rihtey Cineplex
 http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.ZzBlhNqtsNRzPxtU_Z9SeQAAAA?pid=ImgDet&w=186&h=112&c=7" group-title="HINDI MOVIE.", R Cinema Bollywood 
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.ZzBlhNqtsNRzPxtU_Z9SeQAAAA?pid=ImgDet&w=186&h=112&c=7" group-title="HINDI MOVIE.",Colors Cineplex Bollywood 
 http://195.26.87.217/live.ts?channelId=62412&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.G9d-LhA3E210iC5d8Xx-2gHaE8?rs=1&pid=ImgDetMain" group-title="HINDI MOVIE.",Colors Cineplex Superhit  
+http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizjJXcyYsqt2G226miu1y4hwRQgnR3OWLd5v9DP19IEckFmKJV-Kpp16wgLY4yqaevLJ7wQ-K3GfSMyuovZaRZm0Ni0QnMHE73Lmix5zoKztp7CNM-eMa853WuuPF9TbKOf0d7l3D0l-Ou9T9jDFGBrhVsI_EFSzMgwI5LAqScsf21UFin6Ep6oM7sIA4/w93-h94-p-k-no-nu/Picsart-23-06-30-21-35-20-283.png=w74-h74-p-k-no-nu" group-title="HINDI MOVIE.",Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmaLB_awHl3ZGXD-iVe_59ZdFxhUfXh3oogg&usqp=CAU" group-title="HINDI MOVIE.",Bollywood Tv
@@ -212,6 +214,8 @@ http://103.132.181.118:82/play/a00m
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:0 tvg-logo="https://dthhelper.com/wp-content/uploads/2021/07/History-TV18-33.png" group-title="HINDI MOVIE.",Zee Anmol Cinema 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.vuNqLvMJm95XJZtIyxKSHwAAAA?pid=ImgDet&w=141&h=212&c=7" group-title="HINDI MOVIE.",Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.ab295fa275ece71a036c0a2ef8c4b8fc?rik=Lqo638Bu3wFK4Q&pid=ImgRaw&r=0" group-title="HINDI MOVIE.",Zee Classic 
@@ -371,7 +375,7 @@ https://cdn-main.lolokoko.tv/CanalPlusFilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDkw3aR3tD_zGW6YbLgkUCGICyqpiBrnOWpw&usqp=CAU" group-B-TV="BANGLA ENT.",Movies
 https://lnc-cinevault-80s.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAzlwqGQbcZHGHRRaeVF5FaybXvNg5CmuBQ&usqp=CAU" group-B-TV="BANGLA ENT.",Movies Hd
-http://51.159.104.29:8080/cinema2/index.m3u8
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59WUEoVZJ13iR9ocIPFN9ojNOSsYwJNC6dQ&usqp=CAU" group-title="ENGLISH MOVIE.",The Movie 
 http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxGSpEtGRQoAnRfAb8se4Abnn_lcEN0HygA&usqp=CAU" group-title="ENGLISH MOVIE.",Star Channel 
@@ -429,7 +433,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.7j3cPWPxLTGQYDSVetJYEAAAAA?rs=1&pid=ImgDetMain" group-title="SPORTS.",DIEMA SPORT 3
 http://93.155.227.38/m3u8/diemasport3hd.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="SPORTS.",ESPN+
-https://bp1.mrgamingstreams.com/mrgamingsoccer2.m3u8
+https://hls.streambtw.com/live/stream_14.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.910de7a324ec7e1bc8ec035226545bb6?rik=93HIGZWNVD57qA&pid=ImgRaw&r=0" group-title="SPORTS.",ESPN 2
 http://38.96.178.201/live/ESPN2/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.7Z3KI0UV67mOe8nH7LZNiAHaHa?rs=1&pid=ImgDetMain" group-title="SPORTS.",ESPN DEPORTES
@@ -602,5 +606,4 @@ http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
 http://195.26.87.217/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",One-Tv
 http://195.181.175.69:2080/31/index.m3u8
-
 
