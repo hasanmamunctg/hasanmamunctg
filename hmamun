@@ -592,7 +592,7 @@ https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?@ShamimHossai
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.46a3009c75e01fa367705f100e4a854e?rik=f%2fG7oFYGfmse4g&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",Dmax
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.75361e8cebbf68d330dd271ff7f48ee3?rik=wZIkytNIulKrGw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-mA4FPikpltA%2fT1QM4VVCHxI%2fAAAAAAAAEcg%2fAQfpacGkA4A%2fs500%2fDMAX%2bident%2b2012.jpg&ehk=8SPca%2bLVknoAak9Vh6LL3wUvztmr9MttkQgN9pRbP44%3d&risl=&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",Dmax
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-fT8-VpBzB9w/WT1XZiVG-cI/AAAAAAAAAJw/DW0i3vTVcfYOD8-E7cxulQtpA0Av3QE3ACLcB/s1600/Dmax.png" group-title="ENGLISH MOVIE.",D-Max
 http://195.181.175.69:2080/64/index.m3u8
