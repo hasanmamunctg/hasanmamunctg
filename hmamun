@@ -600,10 +600,10 @@ http://195.181.175.69:2080/64/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.SaWw17OirgaJSMu3eMZ_KQHaHa?rs=1&pid=ImgDetMain" group-title="DOCUMENTARY.",G-Cooking Active 
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",CLo-Tv
+#EXTINF:0 tvg-logo="https://cdn.notonthehighstreet.com/fs/2e/e4/7e02-fffb-4997-a8e4-513053cbad6e/original.png" group-title="DOCUMENTARY.",CLo-Tv
 http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.K0xIHsGMuR3Njc-teFBLUwAAAA?w=188&h=258&rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",Hum-Masala
 http://195.26.87.217/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",One-Tv
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.c89ef9aeb33b6d9c8efdeffd701bd0b0?rik=gNSD6GDK0H7vJw&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",One-Tv
 http://195.181.175.69:2080/31/index.m3u8
 
