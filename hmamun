@@ -532,6 +532,8 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.O0tt1-VZPgedVGmwbKOGAgAAAA?rs=1&pid=ImgDetMain" group-title="WRESTLING.",TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-sport.png" group-B-TV="BANGLA ENT.",CanalPlusSport
+http://89.187.179.242:1626/canal+sport
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.EVeeHmeqrAPmbycFXhfv_wAAAA?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.", CanalPlusSport2
 https://cdn-main.lolokoko.tv/CanalPlusSport2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.1PzzrJdvtSccpENK7HqKdAAAAA?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.", CanalPlusSport3
@@ -650,4 +652,3 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
 #EXTINF:0 tvg-logo="https://www.livehdtv.net/uploads/kanal/27576ProSieben%20Maxx.jpg" group-title="DOCUMENTARY.",aMaxx Tv
 https://c7.lbaa.pw:8081/lb/pmaxx/1/www.tvpinto.com/c10/1702456535/0zRLKvidH4p57NmVQt8bXA/10701.m3u8
-
