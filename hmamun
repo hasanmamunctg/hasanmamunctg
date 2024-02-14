@@ -392,12 +392,16 @@ https://cdn-main.lolokoko.tv/FilmBoxPremium.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8D_mL4ZtgIcLgJZCRx16eB_xMdxWQtHDBJg&usqp=CAU" group-B-TV="BANGLA ENT.",Canal Plus Film
 https://cdn-main.lolokoko.tv/CanalPlusFilm.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDkw3aR3tD_zGW6YbLgkUCGICyqpiBrnOWpw&usqp=CAU" group-B-TV="BANGLA ENT.",Movies
-https://lnc-cinevault-80s.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2badcafcceaef51a725c246db4c77cb0.webp" group-B-TV="BANGLA ENT.",Canela Cinema 3
+https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAzlwqGQbcZHGHRRaeVF5FaybXvNg5CmuBQ&usqp=CAU" group-B-TV="BANGLA ENT.",Movies Hd
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59WUEoVZJ13iR9ocIPFN9ojNOSsYwJNC6dQ&usqp=CAU" group-title="ENGLISH MOVIE.",The Movie 
-http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ac834a189809106bcd9593bfa5269e47.webp" group-B-TV="BANGLA ENT.",CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cf68824cb3b05c75471e24c65a4d7c5.webp" group-title="ENGLISH MOVIE.",Who+ 
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/330749dcc61ffa6816423d9d3452808e.webp" group-title="ENGLISH MOVIE.",Tv Nova Play  
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxGSpEtGRQoAnRfAb8se4Abnn_lcEN0HygA&usqp=CAU" group-title="ENGLISH MOVIE.",Star Channel 
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGxz8pyaYfF0T06sN0E3BtaQ48DoNoLNAfg&usqp=CAU" group-B-TV="BANGLA ENT.", Star 1
@@ -428,8 +432,8 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist_w265256731.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.tLu_bhCnvgaaFUak2rOafAHaHa?w=512&h=512&rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",My Time Movies
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
-#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/seo-tv-7-6260.webp" group-title="ENGLISH MOVIE.",SEO Tv
-https://live.seo.tv.bo/live/SEO-4.m3u8
+#EXTINF:0 tvg-logo="https://atlas-content-cdn.pixelsquid.com/stock-images/alphabet-time-s-roman-coin-r-nradaE6-600.jpg" group-title="ENGLISH MOVIE.",Ran time action 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJy8JiGRCxWm8Djm6UBCeCG6NGdaqL24M_9CQA=s900-c-k-c0xffffffff-no-rj-mo" group-title="ENGLISH MOVIE.", Insta TV
 https://live.rednet.rs/providus/instatv_hq/index.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/itv4-logo-D1CE8A5C63-seeklogo.com.png" group-title="ENGLISH MOVIE.",i-Tv 4
@@ -442,14 +446,18 @@ https://cdn-main.lolokoko.tv/PolsatFilm.stream/chunks.m3u8
 http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.UM3EdTLgS38fFKVVuXHC2QHaE8?rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",Action 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/MgFhbAt3-rrGmethxjDtkCbu6SolParIw7JioN9wKSyglUUqBaN35urKTkaSKJt-UF0=w600-h300-pc0xffffff-pd" group-title="ENGLISH MOVIE.",Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
+#EXTINF:0 tvg-logo="https://sharmajazi.com/wp-content/uploads/2023/09/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%DB%B3-1-1024x576.png" group-title="beIN SPORTS.",ATN National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
 https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/01/eb/66/01eb66cdc3c64e0f7a357c59f9cdcf2e.png" group-title="beIN SPORTS.",MATCH Sports 
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.-szLBLULo_J4-o2tURdIqgHaE8?rs=1&pid=ImgDetMain" group-title="beIN SPORTS.",MATCH  Sports 3
 http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs08ajIWjHpb1V9NjCnZ5TlkM0VBuHuY16kA&usqp=CAU" group-title="SPORTS.",Sky Sports Football
-https://hls.streambtw.com/live/stream_10.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3a49e44efce01bea59de8af9e253695f.webp" group-title="SPORTS.",Canela Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.7j3cPWPxLTGQYDSVetJYEAAAAA?rs=1&pid=ImgDetMain" group-title="SPORTS.",DIEMA SPORT 3
@@ -568,6 +576,14 @@ https://cdn-main.lolokoko.tv/Eurosport1.stream/playlist.m3u8
 https://video05.logicahost.com.br/tvsports/tvsports/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.4c100f265b0bb236787d068bf5342e0d?rik=oCwOzMsnjyL%2b3Q&riu=http%3a%2f%2frene.com.pl%2fwp-content%2fuploads%2f2021%2f09%2fPOLSAT_SPORT_EXTRA_RGB.png&ehk=L3vHY%2bV6nt2Wh%2b5zKLelfEJUIUmnKEEWWK6k5htO0C8%3d&risl=&pid=ImgRaw&r=0" group-title="SPORTS.",Polsat Sport Extra 
 https://cdn-main.lolokoko.tv/PolsatSportExtra.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/arriadiah.jpg" group-title="SPORTS.",Star Hd
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5618da2525fbb8b56a95a8a010fe7c06.webp" group-title="SPORTS.",TV Live Sports
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f2190c4ff5ead645eba8c61de352cbb.webp" group-title="SPORTS.",PonTV (Ponte Preta TV)
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:0 tvg-logo="http://azrotv.com/iphone/images/fr_jpg/s-en-fr.jpg" group-title="SPORTS.",Azrotv
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.cfe484002694c622bfc12bb7ca508ca7?rik=hisCzqd8zCnnww&pid=ImgRaw&r=0" group-title="SPORTS.",Polsat Sport 
 https://cdn-main.lolokoko.tv/PolsatSport.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://gdplayertv.top/assets/img/logo/rtv-sport.png" group-title="WRESTLING.",Rtv SPORTS 
@@ -580,12 +596,12 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 http://210.210.155.35/uq2663/h/h26/S4/mnf.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKZRgf5uihQq-hMiO4ckwwMTd-IW4ExBhwQ&usqp=CAU" group-title="SPORTS.",Sports Tv
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/00/c8/20/00c82008cdf9dc9c210f7fe6ff8197ab.jpg" group-title="SPORTS.",Spor Smart
-https://cakal.click/yayinsmarts.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.1eb9f81fee4871667264ec1e74928c2d?rik=pyW1xnp5RWr3Tw&riu=http%3a%2f%2fwww.albawaba.com%2fsites%2fdefault%2ffiles%2fim%2fSport%2fbahrain_sport_day.png&ehk=BtL%2bUUnD1hk1On7n7iN%2bi7ot%2bEPlK7%2fUrFWSisaY4sQ%3d&risl=&pid=ImgRaw&r=0" group-title="SPORTS.",Bahrain Sports
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logos-world.net/wp-content/uploads/2021/06/TRT-Spor-Yildiz-New-Logo.png" group-title="SPORTS.",TrT Spor
 https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=64nj154hu981&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a&ce=2
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/00/c8/20/00c82008cdf9dc9c210f7fe6ff8197ab.jpg" group-title="SPORTS.",Spor Smart
+https://cakal.click/yayinsmarts.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.a06cd349b40bde85adacf7859e7b4fa0?rik=SZTcKHi%2bH18uyA&riu=http%3a%2f%2fwww.parsatv.com%2findex_files%2fchannels%2fvarzesh.png&ehk=7CLNxzf3FJ8U5mF3Tp1C3QG4HlcN6x7Y4IpZRtVs3nU%3d&risl=&pid=ImgRaw&r=0" group-title="SPORTS.",Varzesh Tv
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfrXBRnxvp_xlj3s2GSqGUYSfMMctM1zcSQ&usqp=CAU" group-title="SPORTS.",CDR Sport
@@ -652,10 +668,11 @@ https://streamer103.neterra.tv/travel/travel_SD.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.livehdtv.net/uploads/kanal/24953Amazing%20Discoveries.jpg" group-title="DOCUMENTARY.",Amazing Discoveries
 https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
+#EXTINF:0 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tvm-vipotv.png" group-title="DOCUMENTARY.",Tvm Cooking 
+https://live01.delivery.twentythree.com/live/amlst:3bv5b57p68ldi04524tm8v3h5l:71154069-1278e729306f170d3483.mp4/chunklist_b2128000.m3u8
 #EXTINF:0 tvg-logo="https://www.livehdtv.net/uploads/kanal/27576ProSieben%20Maxx.jpg" group-title="DOCUMENTARY.",aMaxx Tv
 https://c7.lbaa.pw:8081/lb/pmaxx/1/www.tvpinto.com/c10/1702456535/0zRLKvidH4p57NmVQt8bXA/10701.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/QpcU0N6uMPp1PBakXCnMxNeBPDpJwAH0poqIkUfbOV3d_B6pTzigP5v3MgX7QoTk6lyKBDkE3iiVVIXuerVJjILkg-q4H-GHTnHgdQ=h200-rw" group-title="DOCUMENTARY.",TrT 
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-
 
 
