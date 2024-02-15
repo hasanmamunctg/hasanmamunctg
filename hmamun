@@ -170,6 +170,10 @@ http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Khushboo_TV.jpeg/revision/latest?cb=20191223164128" group-KHUSBOO-BANGLA="BANGLA MOVIE.",খুশবু বাংলা-টিভি
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6e35cc54-6ff6-4c58-8a3f-8831c4e5e438_180x180_MovieToday.jpg" group-title="ENGLISH MOVIE.",Movie Today 
+https://shiki.infinitysports.pw/ahmed/unknown/ayna/stream.m3u8?id=186&e=.m3u8
+#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b515749e-6654-483d-b7dc-8c84cb4cedbe_180x180_Movielive.jpg" group-title="ENGLISH MOVIE.",Movie Live 
+https://shiki.infinitysports.pw/ahmed/unknown/ayna/stream.m3u8?id=122&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0zUjJ5lY446ydT3zQnqh3Kb5dpEO-3UVeTg&usqp=CAU" group-title="HINDI MOVIE.",Movie Club Hindi
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspME9aicm4n0WNssXis5_I4Oc8JURdp4MTQ&usqp=CAU" group-title="HINDI MOVIE.",Mbc Bollywood
@@ -240,6 +244,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-ked9bp1700551136692.jpg" group-title="HINDI MUSIC.",Mon-Tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:0 tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2016/01/Bollywood-Hungama-Logo.png" group-title="ENGLISH MOVIE.",Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/4a2303f6-41cb-43d8-be83-9545d9606df4/2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg" group-title="HINDI MUSIC.",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.J6XiepMTV4VEpeCPMOpPsgHaHa?w=173&h=180&c=7&r=0&o=5&pid=1.7" group-MOHONA-TV="BANGLA MOVIE.",YRF MUSIC
@@ -270,10 +276,8 @@ http://195.26.87.217/live.ts?channelId=173&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6e35cc54-6ff6-4c58-8a3f-8831c4e5e438_180x180_MovieToday.jpg" group-title="ENGLISH MOVIE.",Movie Today 
-https://shiki.infinitysports.pw/ahmed/unknown/ayna/stream.m3u8?id=186&e=.m3u8
-#EXTINF:0 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b515749e-6654-483d-b7dc-8c84cb4cedbe_180x180_Movielive.jpg" group-title="ENGLISH MOVIE.",Movie Live 
-https://shiki.infinitysports.pw/ahmed/unknown/ayna/stream.m3u8?id=122&e=.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eCTkDRtpJIcAYIAZvxec-bJTmkC9sOZUkg&usqp=CAU" group-title="ENGLISH MOVIE.",NetFlix 
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=3wy9CxtcyLSC-F5ScW4C
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/f1a33e58-9b8f-4a66-8742-f4d0937e49d4/Revry_RainbowLogo_Black.png" group-title="ENGLISH MOVIE.",Revry TV
 https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoxdf0sa0i2hUguG1swHgiKD2mXE42eUcxQ&usqp=CAU" group-title="ENGLISH MOVIE.",Encore+ Tv
@@ -385,7 +389,7 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.7cKIi6OvC66lmK484NdbUQAAAA?rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",Hbo Hits 
 http://148.113.5.31:8106/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.osscav8LjAQE2GON3SDKtAHaDZ?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.",HbO Tv
-https://cdn-main.lolokoko.tv/HBO.stream/playlist.m3u8
+http://starshare.live:8080/live/53rumaiz87/7567new977/95.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-a4EWqxzpwaNkZHOkukVSPK-fSBCpQo9cWg&usqp=CAU" group-B-TV="BANGLA ENT.",HbO 2
 https://cdn-main.lolokoko.tv/HBO2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQj5NmEg2-K_QkKiDBx8i3o5rNjSd8ZlkWg&usqp=CAU" group-B-TV="BANGLA ENT.",HbO3
