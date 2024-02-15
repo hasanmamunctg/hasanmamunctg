@@ -330,6 +330,30 @@ http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/800/202003/star-movies-select-hd.png.jpg" group-title="ENGLISH MOVIE.",Star Movies Select HD
 http://195.26.87.217/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOIwKn0ZSMv8bThQjlNNRlSvIBS0AYHj2Iw&usqp=CAU" group-title="ENGLISH MOVIE.",Hits 
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.7cKIi6OvC66lmK484NdbUQAAAA?rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",Hbo Hits 
+http://148.113.5.31:8106/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.osscav8LjAQE2GON3SDKtAHaDZ?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.",HbO Tv
+http://starshare.live:8080/live/53rumaiz87/7567new977/95.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-a4EWqxzpwaNkZHOkukVSPK-fSBCpQo9cWg&usqp=CAU" group-B-TV="BANGLA ENT.",HbO 2
+https://cdn-main.lolokoko.tv/HBO2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQj5NmEg2-K_QkKiDBx8i3o5rNjSd8ZlkWg&usqp=CAU" group-B-TV="BANGLA ENT.",HbO3
+https://cdn-main.lolokoko.tv/HBO3.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxGSpEtGRQoAnRfAb8se4Abnn_lcEN0HygA&usqp=CAU" group-title="ENGLISH MOVIE.",Star Channel 
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGxz8pyaYfF0T06sN0E3BtaQ48DoNoLNAfg&usqp=CAU" group-B-TV="BANGLA ENT.", Star 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAn-YBDRl-71EPXv8G_THGiJMrJ2_1hmtGg&usqp=CAU" group-B-TV="BANGLA ENT.", Star 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtEYjWH8zmIE0kODzcnv0l-FWpNRWAe3Cug&usqp=CAU" group-B-TV="BANGLA ENT.", Star  3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF:-1 tvg-logo="https://gdplayertv.top/assets/img/logo/wowow-cinema.png" group-B-TV="BANGLA ENT.", WoWoW Tv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-WGBAo1ro0SbP4cZTYH7wAHaEN?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.", Zhongying
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBndCO5EceX-21tmD1P1D4XWd8Ll7tHv0tmQ&usqp=CAU" group-B-TV="BANGLA ENT.",MeTa Tv
+https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.1653e9b753684cf00b81230cf02c0580?rik=8L%2f2N3IvETA%2fqw&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",&flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.742ffbdb40e0e5e9dac01245c25b9ef0?rik=8U8XxKK8QrP5RQ&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ENGLISH MOVIE.",&Prive Tv
@@ -384,16 +408,6 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mon
 https://cdn-main.lolokoko.tv/SciFi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0v-34LYEPtpUBQmcmxGyUuQuzaGKZDP1FaA&usqp=CAU" group-B-TV="BANGLA ENT.",AmC Tv
 https://cdn-main.lolokoko.tv/AMC.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOIwKn0ZSMv8bThQjlNNRlSvIBS0AYHj2Iw&usqp=CAU" group-title="ENGLISH MOVIE.",Hits 
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.7cKIi6OvC66lmK484NdbUQAAAA?rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",Hbo Hits 
-http://148.113.5.31:8106/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.osscav8LjAQE2GON3SDKtAHaDZ?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.",HbO Tv
-http://starshare.live:8080/live/53rumaiz87/7567new977/95.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-a4EWqxzpwaNkZHOkukVSPK-fSBCpQo9cWg&usqp=CAU" group-B-TV="BANGLA ENT.",HbO 2
-https://cdn-main.lolokoko.tv/HBO2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEQj5NmEg2-K_QkKiDBx8i3o5rNjSd8ZlkWg&usqp=CAU" group-B-TV="BANGLA ENT.",HbO3
-https://cdn-main.lolokoko.tv/HBO3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FilmBox_Premium_HD_logo.png/1024px-FilmBox_Premium_HD_logo.png" group-B-TV="BANGLA ENT.",Film Box Premium
 https://cdn-main.lolokoko.tv/FilmBoxPremium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhnv8w0dsc0BSnsMayYvOIisxmcscK3J0vg&usqp=CAU" group-B-TV="BANGLA ENT.",Film Box Extra
@@ -410,20 +424,6 @@ https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/330749dcc61ffa6816423d9d3452808e.webp" group-title="ENGLISH MOVIE.",Tv Nova Play  
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxGSpEtGRQoAnRfAb8se4Abnn_lcEN0HygA&usqp=CAU" group-title="ENGLISH MOVIE.",Star Channel 
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGxz8pyaYfF0T06sN0E3BtaQ48DoNoLNAfg&usqp=CAU" group-B-TV="BANGLA ENT.", Star 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZAn-YBDRl-71EPXv8G_THGiJMrJ2_1hmtGg&usqp=CAU" group-B-TV="BANGLA ENT.", Star 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtEYjWH8zmIE0kODzcnv0l-FWpNRWAe3Cug&usqp=CAU" group-B-TV="BANGLA ENT.", Star  3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
-#EXTINF:-1 tvg-logo="https://gdplayertv.top/assets/img/logo/wowow-cinema.png" group-B-TV="BANGLA ENT.", WoWoW Tv
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-WGBAo1ro0SbP4cZTYH7wAHaEN?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.", Zhongying
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBndCO5EceX-21tmD1P1D4XWd8Ll7tHv0tmQ&usqp=CAU" group-B-TV="BANGLA ENT.",MeTa Tv
-https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepiff9-G61E7VAOD2kiJJIfq9-wsxtWWS2A&usqp=CAU" group-title="ENGLISH MOVIE.",Hala London TV Movies
 https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist/2.m3u8?st2=joOIOv7EWjN_mRXHkgIapw&e2=1705095146
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7W0R4JoJOySoZFY5j-Ks6drHNSIdRC0GATA&usqp=CAU" group-title="ENGLISH MOVIE.",Flou Cine
