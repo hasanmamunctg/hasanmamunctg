@@ -294,6 +294,10 @@ http://210.210.155.35/dr9445/h/h16/index.m3u8
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.df613d7510681f4697289eddff70d9c6?rik=rDVZMh9chtDSiw&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",Movie Plus 
 http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
+#EXTINF:0 tvg-logo="https://exchange4media.gumlet.io/news-photo/101462-moviesnow.jpg?w=400&dpr=2.6" group-title="ENGLISH MOVIE.",Movies Now
+http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:0 tvg-logo="https://static.toiimg.com/thumb/msid-47921934,imgsize-42764,width-400,resizemode-4/47921934.jpg" group-title="ENGLISH MOVIE.",Mn+
+http://103.132.181.118:82/play/a00t
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sony_Pix_HD.jpg/revision/latest?cb=20170820171213" group-title="ENGLISH MOVIE.",Sony Pix HD
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJwh-YAvoeS3IgATxOLddZP1CpcVRq-ADSioYg=s900-c-k-c0xffffffff-no-rj-mo" group-title="ENGLISH MOVIE.",Cine Sony
