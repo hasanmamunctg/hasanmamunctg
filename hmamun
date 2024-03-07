@@ -293,7 +293,7 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/435
 http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
 #EXTINF:0 tvg-logo="https://gdplayertv.top/assets/img/logo/rock-entertainment.png" group-title="ENGLISH MOVIE.",Rock 
 http://210.210.155.35/dr9445/h/h16/index.m3u8
-#EXTINF:0 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="ENGLISH MOVIE.",Movies Now
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsf1GN28bOr7cjS3Pc1maEMyQBPlDp1ZbsEQ&usqp=CAU" group-title="ENGLISH MOVIE.",Movies Now
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1uJf4cJosW7aAqxBRetrRlnbKyuuZGotIpA&usqp=CAU" group-title="ENGLISH MOVIE.",MovieBox
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
@@ -501,8 +501,6 @@ http://37.18.239.36:8888/Sport_TV_2_HD/index.m3u8
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-kwWcSABqVvh5Jlf9mYalVKjeN2wMXuCqWyQRWSSjJIWFd8lcQtcvxdUlPAmBKgnbd1YJx4_RQO0OPtY3qZk2jOeKPfqqLJs_j3nmDKO-ZjsjBxcx88tXIjhIlZNmaoHVR1dJV8C5VRADWwm_elcv65Mi8iQOhzyCHAQ16uQ1yx36JFdG5IWVo4L8/w93-h94-p-k-no-nu/20221114_230637.jpg=w74-h74-p-k-no-nu" group-title="WRESTLING.",Fox Sports 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dceda9df3f844b841a2fa0488baa1296?rik=iSBtLZ2KKygJKg&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="SPORTS.",Star Sports Select 1
-http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.O0tt1-VZPgedVGmwbKOGAgAAAA?rs=1&pid=ImgDetMain" group-title="WRESTLING.",TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.3zWB2QQ4RkH9_R8ackaWjgHaEZ?rs=1&pid=ImgDetMain" group-title="SPORTS.",Tico SPORTS 
@@ -511,6 +509,8 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://azrotv.com/iphone/images/fr_jpg/s-en-fr.jpg" group-title="SPORTS.",Sports France 
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dceda9df3f844b841a2fa0488baa1296?rik=iSBtLZ2KKygJKg&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="SPORTS.",Star Sports Select 1
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yoHXCD9CKEQrhI5d0IqXmFAFkPHrpPnI48ue0B8-bGftPvaMhO3wV3CRXY_0MbiLpb9a4CRUJtJ9Q8GmX2LQi7kFQLkPjDdkfgvgnBdhyphenhyphenDki2P59UqJ2mhaZ0bvsUVfAWC7LOLLJsLmbh5kjAs2xSEpBjropahuVuMBUdSF34GW4KYFvFZtGw9ZGHlQ/w93-h94-p-k-no-nu/images%20%281%29.png=w74-h74-p-k-no-nu" group-title="SPORTS.",Prime Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.wwj65mJ9KILufclEzeDdZQHaEN?rs=1&pid=ImgDetMain" group-title="WRESTLING.",True Premier Footbal 1
@@ -675,8 +675,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300031VR.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.livehdtv.net/uploads/kanal/24953Amazing%20Discoveries.jpg" group-title="DOCUMENTARY.",Amazing Discoveries
 https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNRP_wUJJahFpvYUFLSSvtKTA0AVEN92CaHg&usqp=CAU" group-title="DOCUMENTARY.",icnet Tv
-https://icnet2hls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdP3qXmjumnTGj6VqMeC3XJaEj4xyt9rzZfE4Y4wGwvukAYaShnEEFoYo&s=10" group-title="DOCUMENTARY.",WILD LIFE
+https://t.ly/SAMSUNG-WILD-LIFE-LIVE/Fazla-Rabby.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZnn6XuH5Xjt0hCzZ8TbW-OJYSWorffWMCQ&usqp=CAU" group-title="DOCUMENTARY.",Food Food Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i_
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c8ac34016b6400b402eab7c/1682336135716-E44FCEJSKOGZF5PWJ33N/Love+the+planet.jpg" group-title="DOCUMENTARY.",Love the Planet
