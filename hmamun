@@ -4,6 +4,8 @@
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.qrXBVJ8itZtxOf3YQQ3TLAHaHa?pid=ImgDet&w=150&h=150&c=7" group-C-TV="BANGLA ENT.",C-Tv
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj59kWWmRtBT56vknlc5YlwtIdGj900qEFPIrUTrTnvORUPSYkbZKAh2FMMNmzlfbFROhKmlgbiISALt7on7OK_vqNyLWYyrBXmljhfdZrMioDoIQ6K1jKBqdvmSBDlVll6mah0F5bJBOC8zl95DhpMvG-odihZzrnnOx-l22AdtpFMY9rQtIVyuDg60SY/w680/Picsart-23-06-07-10-32-27-069.png" group-E-TV="BANGLA ENT.",Ekushey Tv
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-B-TV="BANGLA ENT.",Atn-Bangla
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/io86p2SRWsp5yz9A60wjAgKLs0FIES5jR_a9peG-hC3e-pzSp7xkb-ojmhT7S_kdWg=w300" group-title="BANGLA ENT.",Atn-Bangla Uk
@@ -277,8 +279,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/a4cf3ecb-629a-4db6-b0ed-78b2ac64055a/1.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6b5f3f67679c6c6bf725e96bf7a401ef?rik=%2bLLARPaXueRshg&pid=ImgRaw&r=0" group-B-TV="BANGLA ENT.",Best Action Tv
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eCTkDRtpJIcAYIAZvxec-bJTmkC9sOZUkg&usqp=CAU" group-title="ENGLISH MOVIE.",NetFlix 
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=3wy9CxtcyLSC-F5ScW4C
+#EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQEidRwmVS_Bsw/company-logo_200_200/0/1630614087086/the_preview_channel_logo?e=2147483647&v=beta&t=F84GChFRK-vdhgBwfOD189FdZKUxaNYbJ3fXRlevurE" group-title="ENGLISH MOVIE.",The Preview Channel 
+https://i.mjh.nz/SamsungTVPlus/CAAJ3400011V4.m3u8
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/f1a33e58-9b8f-4a66-8742-f4d0937e49d4/Revry_RainbowLogo_Black.png" group-title="ENGLISH MOVIE.",Revry TV
 https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DU9CUnpgdUBj41Ss4sNM6cavm935EKU0IHHA_I3MbQ&s" group-title="ENGLISH MOVIE.",Tensions Tv
@@ -647,8 +649,8 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://ythls-v2.onrender.com/video/BJ3Yv572V1A.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.OK18hFCwouZOTyxdpc64oAHaEK?rs=1&pid=ImgDetMain" group-title="GEOGRAPHIC.",National Geographic
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-HH4qDZivPuE/AAAAAAAAAAI/AAAAAAAAAAA/dPjv2XCNQmM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GEOGRAPHIC.",Natgeo Wild
-http://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F686e47d1-1341-45a1-8098-de65b75f89e3%2FBBC_TRAVEL_PLEX_BRAND_CHANNEL_About_Image_1920x1080_Caitlin_Schiffer.jpg" group-title="GEOGRAPHIC.",BBc Travel
+https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Nat_Geo_People_HD.png" group-title="GEOGRAPHIC.",Natgeo People
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.2dc26db54c900a62823c43ada37aef21?rik=fh5egzaP3Z0Vbg&pid=ImgRaw&r=0" group-title="DOCUMENTARY.",Nasa TV
