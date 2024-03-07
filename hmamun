@@ -496,7 +496,7 @@ https://corsproxy.org/?https://cakal.click/yayint1.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.a06cd349b40bde85adacf7859e7b4fa0?rik=SZTcKHi%2bH18uyA&riu=http%3a%2f%2fwww.parsatv.com%2findex_files%2fchannels%2fvarzesh.png&ehk=7CLNxzf3FJ8U5mF3Tp1C3QG4HlcN6x7Y4IpZRtVs3nU%3d&risl=&pid=ImgRaw&r=0" group-title="SPORTS.",Sports 9
 https://af.ayas.ir/hls2/varzeshtv.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.bca7ebbf85d95fd7628e96331b220e0b?rik=CTBGV%2bNIqIEmlg&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="SPORTS.",SPORT TV 2
-http://37.18.239.36:8888/Sport_TV_2_HD/index.m3u8
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=197188_&extension=m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg23Sx9HYzkpAXs3Bysnh41XJlx09nU1UUomVOh86MBk5MEfHQ08bu6GtYn4b2D4jb1onbdQM56prM40kO3x2UYjZoxbx8Idf7XvMXRogYGdYBlf6SmO8yQ46y6KOZcgGI8we2LmtUy65sN3Jk4yZmEIbysGyRx0AmvD0_J3oi5tf_oiNXcoOrO_kvX/w93-h94-p-k-no-nu/20221101_175709.jpg=w74-h74-p-k-no-nu" group-title="SPORTS.",Ten Sports
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-kwWcSABqVvh5Jlf9mYalVKjeN2wMXuCqWyQRWSSjJIWFd8lcQtcvxdUlPAmBKgnbd1YJx4_RQO0OPtY3qZk2jOeKPfqqLJs_j3nmDKO-ZjsjBxcx88tXIjhIlZNmaoHVR1dJV8C5VRADWwm_elcv65Mi8iQOhzyCHAQ16uQ1yx36JFdG5IWVo4L8/w93-h94-p-k-no-nu/20221114_230637.jpg=w74-h74-p-k-no-nu" group-title="WRESTLING.",Fox Sports 
@@ -511,6 +511,8 @@ https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.dceda9df3f844b841a2fa0488baa1296?rik=iSBtLZ2KKygJKg&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="SPORTS.",Star Sports Select 1
 http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqDbs2iJy2-lzRQCSPyjjbHkNZu8wbZ48Lj41SCyLfg&s" group-title="SPORTS.",Star Sports Select 2
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:03:8a:5b&stream=1114584&extension=m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yoHXCD9CKEQrhI5d0IqXmFAFkPHrpPnI48ue0B8-bGftPvaMhO3wV3CRXY_0MbiLpb9a4CRUJtJ9Q8GmX2LQi7kFQLkPjDdkfgvgnBdhyphenhyphenDki2P59UqJ2mhaZ0bvsUVfAWC7LOLLJsLmbh5kjAs2xSEpBjropahuVuMBUdSF34GW4KYFvFZtGw9ZGHlQ/w93-h94-p-k-no-nu/images%20%281%29.png=w74-h74-p-k-no-nu" group-title="SPORTS.",Prime Sports 1
 http://202.21.104.6:88/sps-prime/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.wwj65mJ9KILufclEzeDdZQHaEN?rs=1&pid=ImgDetMain" group-title="WRESTLING.",True Premier Footbal 1
@@ -646,7 +648,7 @@ https://ythls-v2.onrender.com/video/BJ3Yv572V1A.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.OK18hFCwouZOTyxdpc64oAHaEK?rs=1&pid=ImgDetMain" group-title="GEOGRAPHIC.",National Geographic
 https://cdn-main.lolokoko.tv/NationalGeographic.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/-HH4qDZivPuE/AAAAAAAAAAI/AAAAAAAAAAA/dPjv2XCNQmM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GEOGRAPHIC.",Natgeo Wild
-https://cdn-main.lolokoko.tv/NatGeoWild.stream/playlist.m3u8
+http://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Nat_Geo_People_HD.png" group-title="GEOGRAPHIC.",Natgeo People
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.2dc26db54c900a62823c43ada37aef21?rik=fh5egzaP3Z0Vbg&pid=ImgRaw&r=0" group-title="DOCUMENTARY.",Nasa TV
