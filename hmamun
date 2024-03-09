@@ -466,6 +466,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/itv4-logo-D1CE8A5C63-seeklogo.com.png" group-title="ENGLISH MOVIE.",i-Tv 4
 http://195.181.175.69:2080/24/index.m3u8
+#EXTINF:0 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-latino.png" group-title="ENGLISH MOVIE.",Persian Latin
+https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="ENGLISH MOVIE.",Cinevault
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYxg15ENzNxOqi8w3RosyOQ5nuz9F5gvVMSW_-i-GYcHhDqHMjMWdplU&s=10" group-title="ENGLISH MOVIE.",Hallmark Channel
@@ -488,7 +490,7 @@ https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZO1RUrKWm2AKEvMs2IN_zcQk5HB-TI6XL6DZ5PYdmgRB23k34WUvHS8oZ942Kba64MkBhteymbmqT3bsQ00BHuWJfJo6UH6PQIEOkGctGQNiJjTC-ycMfAQ25CnUhXVoG7t88uS03uVENkU3R8_HuBMu1ZmuiGSwzbmB342xA8dVj1f07J9DET06Bw/s640/%D9%A2%D9%A0%D9%A2%D9%A3%D9%A0%D9%A4%D9%A2%D9%A7_%D9%A0%D9%A2%D9%A0%D9%A6%D9%A4%D9%A4.jpg" group-title="SPORTS.",Persiana Sports 
+#EXTINF:0 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-latino.png" group-title="SPORTS.",Persiana Sports 
 https://edge11.97588.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png" group-title="SPORTS.",a Spor
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
@@ -658,12 +660,10 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d2lr43dcqypp5g.cloudfront.net/transforms/awsideoorg/tile_images/178256/National-Geographic-Logo_21d57d640d2b853246bac21c734c9889.png" group-title="GEOGRAPHIC.",National Geographic
 https://ythls-v2.onrender.com/video/BJ3Yv572V1A.m3u8
-#EXTINF:0 tvg-logo="https://www.justcooking.ie/images/logo.png" group-title="GEOGRAPHIC.",Just Cooking
-https://i.mjh.nz/SamsungTVPlus/ATAJ0500443A.m3u8
-#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F686e47d1-1341-45a1-8098-de65b75f89e3%2FBBC_TRAVEL_PLEX_BRAND_CHANNEL_About_Image_1920x1080_Caitlin_Schiffer.jpg" group-title="GEOGRAPHIC.",BBc Travel
-https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
 #EXTINF:0 tvg-logo="https://www.ots.at/anhang/2023/10/16/OBS/OBS_20231016_OBS0025.jpg" group-title="GEOGRAPHIC.",Terra Mater WILD
 https://i.mjh.nz/SamsungTVPlus/ATBD2700001KY.m3u8
+#EXTINF:0 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F686e47d1-1341-45a1-8098-de65b75f89e3%2FBBC_TRAVEL_PLEX_BRAND_CHANNEL_About_Image_1920x1080_Caitlin_Schiffer.jpg" group-title="GEOGRAPHIC.",BBc Travel
+https://i.mjh.nz/SamsungTVPlus/DEBA1000009TT.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.2dc26db54c900a62823c43ada37aef21?rik=fh5egzaP3Z0Vbg&pid=ImgRaw&r=0" group-title="DOCUMENTARY.",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY.",CGTN Documentary
@@ -674,14 +674,16 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 http://195.181.175.69:2080/64/index.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/08/28/travelxp_0.JPG" group-title="DOCUMENTARY.",Travel Xp 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.SaWw17OirgaJSMu3eMZ_KQHaHa?rs=1&pid=ImgDetMain" group-title="DOCUMENTARY.",G-Cooking Active 
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.SaWw17OirgaJSMu3eMZ_KQHaHa?rs=1&pid=ImgDetMain" group-title="DOCUMENTARY.",G-Cooking  
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.notonthehighstreet.com/fs/2e/e4/7e02-fffb-4997-a8e4-513053cbad6e/original.png" group-title="DOCUMENTARY.",CLo-Tv
 http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.K0xIHsGMuR3Njc-teFBLUwAAAA?w=188&h=258&rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",Hum-Masala
 http://195.26.87.217/live.ts?channelId=418&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.c89ef9aeb33b6d9c8efdeffd701bd0b0?rik=gNSD6GDK0H7vJw&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",One-Tv
-http://195.181.175.69:2080/31/index.m3u8
+#EXTINF:0 tvg-logo="https://www.justcooking.ie/images/logo.png" group-title="GEOGRAPHIC.",Just Cooking
+https://i.mjh.nz/SamsungTVPlus/ATAJ0500443A.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZnn6XuH5Xjt0hCzZ8TbW-OJYSWorffWMCQ&usqp=CAU" group-title="DOCUMENTARY.",Food Food Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i_
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpYX9JSsAlSMVs9UWH3pYuHR58jiG26m2vw&usqp=CAU" group-title="DOCUMENTARY.",Travel Tv
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QrfCL4lgGTUA4LaFJcEjRWLiLEEuaN_Ygg&usqp=CAU" group-title="DOCUMENTARY.",Wilder Planet
@@ -692,12 +694,12 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdP3qXmjumnTGj6VqMeC3XJaEj4xyt9rzZfE4Y4wGwvukAYaShnEEFoYo&s=10" group-title="DOCUMENTARY.",WILD LIFE
 https://t.ly/SAMSUNG-WILD-LIFE-LIVE/Fazla-Rabby.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZnn6XuH5Xjt0hCzZ8TbW-OJYSWorffWMCQ&usqp=CAU" group-title="DOCUMENTARY.",Food Food Tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i_
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c8ac34016b6400b402eab7c/1682336135716-E44FCEJSKOGZF5PWJ33N/Love+the+planet.jpg" group-title="DOCUMENTARY.",Love the Planet
 https://i.mjh.nz/SamsungTVPlus/ITBC4700003GR.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/QpcU0N6uMPp1PBakXCnMxNeBPDpJwAH0poqIkUfbOV3d_B6pTzigP5v3MgX7QoTk6lyKBDkE3iiVVIXuerVJjILkg-q4H-GHTnHgdQ=h200-rw" group-title="DOCUMENTARY.",TrT 
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.c89ef9aeb33b6d9c8efdeffd701bd0b0?rik=gNSD6GDK0H7vJw&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",One-Tv
+http://195.181.175.69:2080/31/index.m3u8
 
 
 
