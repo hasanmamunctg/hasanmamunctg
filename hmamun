@@ -287,8 +287,6 @@ https://bongodrive.pw/bioscope.m3u8?id=vh1
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1752330370106949632/4wEnvu81_400x400.jpg" group-title="Arabian MUSIC.",Vision Star 
-https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/a4cf3ecb-629a-4db6-b0ed-78b2ac64055a/1.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6b5f3f67679c6c6bf725e96bf7a401ef?rik=%2bLLARPaXueRshg&pid=ImgRaw&r=0" group-B-TV="BANGLA ENT.",Best Action Tv
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQEidRwmVS_Bsw/company-logo_200_200/0/1630614087086/the_preview_channel_logo?e=2147483647&v=beta&t=F84GChFRK-vdhgBwfOD189FdZKUxaNYbJ3fXRlevurE" group-title="ENGLISH MOVIE.",The Preview Channel 
@@ -315,20 +313,14 @@ http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJwh-YAvoeS3IgATxOLddZP1CpcVRq-ADSioYg=s900-c-k-c0xffffffff-no-rj-mo" group-title="ENGLISH MOVIE.",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7MRqn3HreQ599u78SB_ZDgfFe6hto7Yu3CA&usqp=CAU" group-title="ENGLISH MOVIE.",Sony TV Brazil 
-http://g4b.alwaysdata.net/sonymoviesbr.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAC1k5FBjuObG1ttZKDQ640tGc6npDqr5mxg&usqp=CAU" group-title="ENGLISH MOVIE.",WB TV
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CoYiDB8ojHTQvSwr9h8clzpcm85wiFaHroW0MaVgTnDEXAIMxhGlzC5Vwo9N3-z3obfVqc_G62I=s900-c-k-c0x00ffffff-no-rj" group-B-TV="BANGLA ENT.",TnT WbTv
-https://cdn-main.lolokoko.tv/TNT.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjkTZAkHlxMRB8izvsp8sjx5p_Pw8aZZIgGg&usqp=CAU" group-title="ENGLISH MOVIE.",Dubai 1
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpOyrfWzxBmpJ21pioUhS0U1BH6DDZ8ZHdg&usqp=CAU" group-title="ENGLISH MOVIE.",Groovy Tv
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoxdf0sa0i2hUguG1swHgiKD2mXE42eUcxQ&usqp=CAU" group-title="ENGLISH MOVIE.",Encore+ Tv
 https://streams2.sofast.tv/ptnr-yupptv/title-ENCORE-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/390efe7e-4a1a-4f9f-8266-b4d90ab7121a/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/MBC_2_former_logo.jpg/170px-MBC_2_former_logo.jpg" group-title="ENGLISH MOVIE.",MBC 2 HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/191
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbHQHJ1P2zyQqMcJ01dT7XUngWl4i_C6h1Q&usqp=CAU" group-title="ENGLISH MOVIE.",Spece Tv
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0v-34LYEPtpUBQmcmxGyUuQuzaGKZDP1FaA&usqp=CAU" group-B-TV="BANGLA ENT.",AmC Tv
@@ -407,8 +399,6 @@ http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg4RhMec4Wyab08n7-2fYCt8tXo7nSDvqAg&usqp=CAU" group-title="ENGLISH MOVIE.",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcsxAlQjDeLPFmuTPdAFRNpGFrPZoerE4CQ&usqp=CAU" group-B-TV="English Movies.",Paramount
-https://cdn-main.lolokoko.tv/ParamountChannel.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFDPSD4KZSRWM1Gv6rTUOCSzAa8S8yj9SuRA&usqp=CAU" group-title="ENGLISH MOVIE.",Box Tv
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCeuCI5ahDVrUqM7n68VamYbm8abutNfTMdQ&usqp=CAU" group-title="ENGLISH MOVIE.",Screambox-Tv
@@ -443,8 +433,6 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://threebestrated.sg/images/WECinemas-Clementi-West.jpeg" group-B-TV="BANGLA ENT.",We Cinema Tv
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa92jJWE_8bS80NWM2aQGOH8gjjRXB_bZoGg&usqp=CAU" group-B-TV="BANGLA ENT.",ScIFi
-https://cdn-main.lolokoko.tv/SciFi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2badcafcceaef51a725c246db4c77cb0.webp" group-B-TV="BANGLA ENT.",Canela Cinema 3
 https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAzlwqGQbcZHGHRRaeVF5FaybXvNg5CmuBQ&usqp=CAU" group-B-TV="BANGLA ENT.",Movies Hd
@@ -491,14 +479,10 @@ https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/ITBC4700004EQ.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.UM3EdTLgS38fFKVVuXHC2QHaE8?rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",Action 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
-http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:0 tvg-logo="https://sharmajazi.com/wp-content/uploads/2023/09/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%DB%B3-1-1024x576.png" group-title="beIN SPORTS.",ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/bande-LEquipeLive1.png" group-title="SPORTS.",L'Equipe Live 1
-https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
-#EXTINF:0 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/bande-LequipeLive2.png" group-title="SPORTS.",L'Equipe Live 2
-https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs" group-title="SPORTS.",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
