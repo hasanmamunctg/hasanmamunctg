@@ -569,13 +569,13 @@ https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8?free_iptv_m3u8_link%27s
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU4JXWf4ct6oM0MjyNVNhoTNkHzSA-8NxBiKy_MUZcLXSjAp0OAB10mjHol9bMj1LQrfvAtO0hrKkX9aRksNRubJEmJ2K0-HthFJO79dWvHC8dcA_JOGCiXyHCYJlXsbzmYkVizy4UQZJBub2zlMv3ZHi6uU85a7m8U6s0ATBUcEoyQZK0SbzbKg5d_WI/w93-h94-p-k-no-nu/20231224_162638.jpg=w74-h74-p-k-no-nu" group-title="WRESTLING.",SSC 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-sport.png" group-B-TV="BANGLA ENT.",CanalPlusSport
+#EXTINF:-1 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-sport.png" group-B-TV="BANGLA ENT.",Canal Plus Sport
 http://89.187.179.242:1626/canal+sport
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.EVeeHmeqrAPmbycFXhfv_wAAAA?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.", CanalPlusSport
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJovqbSL8wHo6g--OzYilEsWqK8a_ju1lpBw&usqp=CAU" group-B-TV="BANGLA ENT.",Sport Tv 
 http://opplex.tv:8080/live/ahmar555/123456/348653.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.1PzzrJdvtSccpENK7HqKdAAAAA?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.", CanalPlusSport2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOd_ecd-EVlhc59CkCK0QxWYDdVf3_dR_ALV-kel2sUpTg1eV2cWpNss&s=10" group-B-TV="BANGLA ENT.",Sport Tv 2
 http://opplex.tv:8080/live/ahmar555/123456/348654.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.MpdOLPlnNUUT2OH2ceLgwAHaD0?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.", CanalPlusSport3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-lpYqUH6zLZXk3w8f0rIuJ5H589xxq8OcV1p1l_RTTc8IWFYMvr6Oia8&s=10" group-B-TV="BANGLA ENT.",Sport Tv 3
 http://opplex.tv:8080/live/ahmar555/123456/348650.m3u8
 #EXTINF:0 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/757.png" group-title="SPORTS.",J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
@@ -585,10 +585,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:0 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/760.png" group-title="SPORTS.",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-B-TV="BANGLA ENT.",Sports Tv 1
-http://213.13.16.138/shls/LIVE$SPORTTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sport_TV2_%282016%29.svg/2560px-Sport_TV2_%282016%29.svg.png" group-B-TV="BANGLA ENT.",Sports Tv 2
-http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://img1.cgtrader.com/items/2136454/39df50f365/real-madrid-football-club-fc-3d-logo-3d-model-low-poly-obj-mtl-3ds-fbx-c4d.jpg" group-title="SPORTS.",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8?cp=en
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.75L5ObD55v0pJlB8NM4XqgAAAA?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.",Mu Sports
@@ -601,9 +597,7 @@ https://my-bdtube-my.onrender.com/join/@livetvwithshuvo/index.m3u8?id=superfotba
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKU1ZX4mUtj5xO5rRcwk4BO-iKKIl-MgQj8dLXrLAlBrKFWjWPMHWK4KFQTpTGyzfUEHE&usqp=CAU" group-title="SPORTS.",M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.809a1443d7128dc2adf2ccd823b0cba2?rik=pBObYobM9GMFrA&pid=ImgRaw&r=0" group-B-TV="BANGLA ENT.",Eurosport-1
-https://cdn-main.lolokoko.tv/Eurosport1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/CNiyVHxKoH3DgF-8ldwVLmAZFGUkNLPRS5zfOQUSBxLXlg8X0x_RKXrHrBI-2cswvg" group-title="SPORTS.",Top TV Sports
+p#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/CNiyVHxKoH3DgF-8ldwVLmAZFGUkNLPRS5zfOQUSBxLXlg8X0x_RKXrHrBI-2cswvg" group-title="SPORTS.",Top TV Sports
 https://video05.logicahost.com.br/tvsports/tvsports/playlist.m3u8
 #EXTINF:0 tvg-logo="http://azrotv.com/iphone/images/ar_jpg/arriadiah.jpg" group-title="SPORTS.",Star Hd
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
