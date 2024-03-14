@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-E-TV="BANGLA ENT.",B-Tv
-http://cdn01.palki.tv/live/BTV-M/index.m3u8
+http://opplex.tv:8080/live/ahmar555/123456/245930.m3u8
 #EXTINF:0 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=3840&q=75" group-E-TV="BANGLA ENT.",C-Tv
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj59kWWmRtBT56vknlc5YlwtIdGj900qEFPIrUTrTnvORUPSYkbZKAh2FMMNmzlfbFROhKmlgbiISALt7on7OK_vqNyLWYyrBXmljhfdZrMioDoIQ6K1jKBqdvmSBDlVll6mah0F5bJBOC8zl95DhpMvG-odihZzrnnOx-l22AdtpFMY9rQtIVyuDg60SY/w680/Picsart-23-06-07-10-32-27-069.png" group-E-TV="BANGLA ENT.",Ekushey Tv
@@ -20,7 +20,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-BANGLA-VISION="BANGLA ENT.",Banglavishon-Tv
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-MACH-RANGA="BANGLA ENT.",MachRanga-Tv
-https://niptv.kitv.live/MAASRANGA-TV/index.m3u8
+http://opplex.tv:8080/live/ahmar555/123456/245904.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngr59cKSrXstL9C_4Ub7Y5SEntMUUXfUITGWli_gw=s900-c-k-c0x00ffffff-no-rj" group-SA-TV="BANGLA ENT.",Sa-Tv
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-DEEPTO-TV="BANGLA ENT.",Dipto-Tv
@@ -28,7 +28,7 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtcDMZrkpmQSxiAGv2ZLrIQybEG2ZPuKAjP8tvf7EW2pNaZgjq9g832Y5z6feAqNT_-gKyxf90zgglkx4EIcvhhargrj_MD_sGUUxzR28-53LU17WGyCBVfmFZhJ0tY0imYksXox8gt21eJQ-EvPKqee_uiDg_36ZCwhMEoBm0PoQa29whTHlFV75JBw/w93-h94-p-k-no-nu/Picsart-23-06-07-10-15-30-064.png=w74-h74-p-k-no-nu" group-BANGLA-TV="BANGLA ENT.",Bangla-Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-ANANDA-TV="BANGLA MOVIE.",Ananda-Tv
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+http://opplex.tv:8080/live/ahmar555/123456/245929.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-BIJOY-TV="BANGLA MOVIE.",Bijoy Tv
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0z1vIsGFWBcQHWU53BSj1ws9anZ30M8mlvHYdIrybSdpt6W2unqRYM6DtFTUDBB-7ZyPd-Uv19CLBvr9zBw_vs-Q5x6Fvcxh2H_f6cEP7T5dYWvmXz-5_y9JSjCcT4r_2pvaFlL4ZEnRJD1DXfSLNHOYabh2mlWkthosaMk7IFJB7XPD0EhhQHmshKA8/w93-h94-p-k-no-nu/download%20%289%29.jpeg=w74-h74-p-k-no-nu" group-B-TV="BANGLA ENT.",Green Tv 
@@ -128,7 +128,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.J83HvbykuoiuWo4PpiK5RQHaFO?rs=1&pid=ImgDetMain" group-title="BANGLA ENT.",Varendra Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.4nEVcqMdJA5CZoV3etSDEAHaD4?rs=1&pid=ImgDetMain" group-title="BANGLA ENT.",Duronto Tv
-http://195.26.87.217/live.ts?channelId=74553&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://opplex.tv:8080/live/ahmar555/123456/245955.m3u8
 #EXTINF:0 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_724.png" group-title="BANGLA ENT.",Cartoon Classics
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-6hfog1649708730078.jpg" group-title="BANGLA ENT.",Time 24
