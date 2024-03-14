@@ -20,7 +20,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-BANGLA-VISION="BANGLA ENT.",Banglavishon-Tv
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-MACH-RANGA="BANGLA ENT.",MachRanga-Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohasthantv.stream/live-orgin/mohasthantv.stream/chunks.m3u8
+https://niptv.kitv.live/MAASRANGA-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngr59cKSrXstL9C_4Ub7Y5SEntMUUXfUITGWli_gw=s900-c-k-c0x00ffffff-no-rj" group-SA-TV="BANGLA ENT.",Sa-Tv
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-DEEPTO-TV="BANGLA ENT.",Dipto-Tv
@@ -61,15 +61,13 @@ http://alvetv.com/mbtv/8080/index.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SAQC-Sr82LO7F5H-JgMwXdCdP59PGOwDbg&usqp=CAU" group-title="BANGLA ENT.",Chennl 23
 https://server1.jadubd.com/channel23/channel23/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ff58cecc105da54a3881b73b95dbd729a74b5f80fea6b29db9af2c0a3081ce5fe.jpg" group-title="BANGLA ENT.",Tv Canada
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atvcanada.stream/live-orgin/atvcanada.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-ogu4b1604594313792.jpg" group-VOICE-TV="BANGLA ENT.",Can Bangla Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/live-orgin/canbanglatv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm5N9ZuU16LlWzGodRaL_c8-EZncNvaqLW6g&usqp=CAU" group-CUMILLA-TV="BANGLA ENT.",Camilla Tv
 http://103.149.142.133/0.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngOKQpZ412783sapQW0Jjpi7or51FDQWJR8OtFn7A=s900-c-k-c0x00ffffff-no-rj" group-NAN-TV="BANGLA ENT.",Nan Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-bnnjj1640673615992.jpg" group-VOICE-TV="BANGLA ENT.",Bb24
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPBaeCCRleYQinCuN61uBN3K8zd_wQgjVIUpYQXas7w&s" group-VOICE-TV="BANGLA ENT.",Bb24
 http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/m-z2ewt1702549227260.jpg" group-CNN-BANGLA 2="BANGLA MOVIE.",Chennl Europe 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
@@ -121,6 +119,8 @@ http://208.86.19.13:81/504.stream/index.m3u8
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.SdA3kk5UEviAKFwI6ylziwHaHa?rs=1&pid=ImgDetMain" group-title="BANGLA ENT.",Apon Tv
 https://cloud7.raytahost.com/live/apontv/index.m3u8
+#EXTINF:0 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ff58cecc105da54a3881b73b95dbd729a74b5f80fea6b29db9af2c0a3081ce5fe.jpg" group-title="BANGLA ENT.",Tv Canada
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atvcanada.stream/live-orgin/atvcanada.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0FZyN9FnIywn7C_ncwpN_19jgB9GbYKIsA&usqp=CAU" group-C-TV="BANGLA ENT.",Ab Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/8d/34/ed/8d34ed24d428360010bac682ab6da9b5.jpg" group-title="BANGLA ENT.",Ion-Tv
