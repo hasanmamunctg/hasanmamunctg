@@ -287,6 +287,22 @@ https://bongodrive.pw/bioscope.m3u8?id=vh1
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2017/11/World_Movies_Australia_logo-800x600.png" group-B-TV="ENGLISH MOVIE.",World Movies  
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=197233_&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/220px-Star_World_2016_logo.png" group-B-TV="ENGLISH MOVIE.",Star world 
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4058.m3u8
+#EXTINF:-1 tvg-logo="https://media0035.elcinema.com/tvguide/1323_1.png" group-B-TV="ENGLISH MOVIE.",Bein movie 2 
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4067.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EQrQmEK6cf8/mqdefault.jpg" group-B-TV="ENGLISH MOVIE.",Brrin Movie
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4327.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRNEVs3CSt0EYAH7aLPsUDgT8SOui83r8nmg&usqp=CAU" group-B-TV="ENGLISH MOVIE.",Action Movies  
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4056.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5WhECXQVAx7V3EysgILPLgGkFYKioeMB_Aw&usqp=CAU" group-B-TV="ENGLISH MOVIE.",Mmn Action 
+http://iptv.nextnet.krd:25461/live/nextnet/3738/218.m3u8
+#EXTINF:-1 tvg-logo="https://www.mmnfilms.com/wp-content/uploads/2018/10/MMN-logo.png" group-B-TV="ENGLISH MOVIE.",Mmn Movie 
+http://iptv.nextnet.krd:25461/live/nextnet/3738/210.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvzBd8FbDsOFV2P0MBE75eui2wq_OTiCYfhHGsDBWjds7dJJ5LXq7XUVGzTO_6T_p8Ys&usqp=CAU" group-B-TV="ENGLISH MOVIE.",Astera Movies 
+http://iptv.nextnet.krd:25461/live/nextnet/3738/172.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6b5f3f67679c6c6bf725e96bf7a401ef?rik=%2bLLARPaXueRshg&pid=ImgRaw&r=0" group-B-TV="BANGLA ENT.",Best Action Tv
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQEidRwmVS_Bsw/company-logo_200_200/0/1630614087086/the_preview_channel_logo?e=2147483647&v=beta&t=F84GChFRK-vdhgBwfOD189FdZKUxaNYbJ3fXRlevurE" group-title="ENGLISH MOVIE.",The Preview Channel 
@@ -299,6 +315,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-TENSIONS-TV-ENG_yupptv/v1/manifest/
 https://vdo.panelchs.com:3668/live/do9373639live.m3u8
 #EXTINF:0 tvg-logo="https://figar.ir/wp-content/uploads/2021/10/cinema.jpg" group-title="ENGLISH MOVIE.",Persiana Cinema 
 https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:0 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-latino.png" group-title="ENGLISH MOVIE.",Persian Latin
+https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="ENGLISH MOVIE.",Rock Action 
 http://210.210.155.37/session/26dad2fe-a570-11ed-9356-bc88983ac668/dr9445/h/h15/01.m3u8
 #EXTINF:0 tvg-logo="https://gdplayertv.top/assets/img/logo/rock-entertainment.png" group-title="ENGLISH MOVIE.",Rock 
@@ -337,10 +355,6 @@ http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/
 https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-homepage-en.pluto.tv/hp-assets/images/og_logo_new-01af615635e0626f2e22a8ee37937c8d.png" group-B-TV="ENGLISH MOVIE.",Pluto TV Movies
 https://i.mjh.nz/SamsungTVPlus/ATAK3504514A.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-B-TV="ENGLISH MOVIE.",De Pleicula 
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" group-B-TV="ENGLISH MOVIE.",De Pleicula Plus
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Dove_Channel_%28streaming_service%29_logo.png" group-B-TV="ENGLISH MOVIE.",Dove Channel
 https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
 #EXTINF:-1 tvg-logo="https://www.filmgold-tv.de/files/tao/media/img/filmgold-tv/ueber-uns/Filmgold-Logo.jpg" group-B-TV="ENGLISH MOVIE.",Filmgold
@@ -457,8 +471,6 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 https://cdn.yayin.com.tr/TVEM/TVEM/chunklist_w265256731.m3u8
 #EXTINF:0 tvg-logo="https://www.minervapictures.com/wp-content/uploads/2024/02/Cinema-Italiano_website-Samsung-Plex-1.png" group-title="ENGLISH MOVIE.",Cinema Italiano
 https://i.mjh.nz/SamsungTVPlus/ITBA33000238E.m3u8
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/iePnflfXGpaeShQ0RhWk9b1Uk1Bxmu0fZXuZR1RaXsmNNozeMfqlWSSCkvgsGh8JJCP8gbEI=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",Ciné Western
-https://i.mjh.nz/SamsungTVPlus/FRBD19000095S.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1375287637276119042/zDKIDual_400x400.jpg" group-title="ENGLISH MOVIE.",Popflix
 https://i.mjh.nz/SamsungTVPlus/GBAJ400045P5.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.tLu_bhCnvgaaFUak2rOafAHaHa?w=512&h=512&rs=1&pid=ImgDetMain" group-title="ENGLISH MOVIE.",My Time Movies
@@ -467,8 +479,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3058
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/itv4-logo-D1CE8A5C63-seeklogo.com.png" group-title="ENGLISH MOVIE.",i-Tv 4
 http://195.181.175.69:2080/24/index.m3u8
-#EXTINF:0 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-latino.png" group-title="ENGLISH MOVIE.",Persian Latin
-https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="ENGLISH MOVIE.",Cinevault
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYxg15ENzNxOqi8w3RosyOQ5nuz9F5gvVMSW_-i-GYcHhDqHMjMWdplU&s=10" group-title="ENGLISH MOVIE.",Hallmark Channel
@@ -483,6 +493,20 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
 http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6qrZml6m_wS0lq9e40Fx3kTZmlrhsknaYw&usqp=CAU" group-title="SPORTS.",Sports 2
+http://iptv.nextnet.krd:25461/live/nextnet/3738/106.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_C09U9eaQTTID-8NyAgEM4s_CMjFWyDiNIhGcWt7Ruai3VJBsCuVrn6nQap68ryTBko&usqp=CAU" group-title="SPORTS.",Sports 3
+http://iptv.nextnet.krd:25461/live/nextnet/3738/149.m3u8
+#EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sport-1-1-logo.png" group-title="SPORTS.",See Sports 1
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4359.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ilzqfu1642606956.png" group-title="SPORTS.",See Sports 2
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4360.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="SPORTS.",Alkass Sports 
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4696.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/795133992785719296/vGCRqoty_400x400.jpg" group-title="SPORTS.",Mmn Sports 
+http://iptv.nextnet.krd:25461/live/nextnet/3738/213.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMj9M9Nn8tGrZB8In4dLo8RMLjv4-XBLp__GNqKWxnCbElRoOY7vkFdjdwlOPrIvpRv9Y&usqp=CAU" group-title="SPORTS.",Astera Sports
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4321.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs" group-title="SPORTS.",Claro Sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="SPORTS.",Ptv Sports
@@ -621,6 +645,8 @@ https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?&sid=64nj154hu981&app=2
 https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/Outdoor%20Sport%20Channel%20logo-small%281%29.png" group-title="SPORTS.",Sport Outdoor Tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/2000.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGHTVvq5uxteJcakrwaLRcwz-oUJzfOwzF0Ry5RILwQVVnP_5USlMFvlNzsW-8Zxgy9E&usqp=CAU" group-title="WRESTLING.",Zaxo Sports
+http://iptv.nextnet.krd:25461/live/nextnet/3738/4361.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvzu4fBgoLrBQ689QX2ZNjVMCxaciD3TORw&usqp=CAU" group-title="WRESTLING.",World Wrestling Entertainment
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
@@ -691,8 +717,8 @@ https://bozztv.com/btrn03/amazingdtv-srt/index.m3u8
 https://t.ly/SAMSUNG-WILD-LIFE-LIVE/Fazla-Rabby.m3u8
 #EXTINF:0 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c8ac34016b6400b402eab7c/1682336135716-E44FCEJSKOGZF5PWJ33N/Love+the+planet.jpg" group-title="DOCUMENTARY.",Love the Planet
 https://i.mjh.nz/SamsungTVPlus/ITBC4700003GR.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/QpcU0N6uMPp1PBakXCnMxNeBPDpJwAH0poqIkUfbOV3d_B6pTzigP5v3MgX7QoTk6lyKBDkE3iiVVIXuerVJjILkg-q4H-GHTnHgdQ=h200-rw" group-title="DOCUMENTARY.",TrT 
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 tvg-logo="https://app.qallam.net/media/4dafb58b-138b-4bb2-bbd8-4c4c56d96604%D8%AA%D9%88%DB%8C%DA%86%20%D9%82%DB%95%DA%B5%DB%95%D9%85.png" group-title="DOCUMENTARY.",Qallam Tv
+http://iptv.nextnet.krd:25461/live/nextnet/3738/3899.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.c89ef9aeb33b6d9c8efdeffd701bd0b0?rik=gNSD6GDK0H7vJw&pid=ImgRaw&r=0" group-title="ENGLISH MOVIE.",One-Tv
 http://195.181.175.69:2080/31/index.m3u8
 
