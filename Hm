@@ -1,4 +1,5 @@
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1oPyX071UmOX5CAPoTiFuJZrZalEwELfAQ&s" group-B-TV="BANGLA ENT.",Btv
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=xgv71FaRqq1CNQkvTsoaMQ&expires=1720807869&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj59kWWmRtBT56vknlc5YlwtIdGj900qEFPIrUTrTnvORUPSYkbZKAh2FMMNmzlfbFROhKmlgbiISALt7on7OK_vqNyLWYyrBXmljhfdZrMioDoIQ6K1jKBqdvmSBDlVll6mah0F5bJBOC8zl95DhpMvG-odihZzrnnOx-l22AdtpFMY9rQtIVyuDg60SY/w680/Picsart-23-06-07-10-32-27-069.png" group-E-TV="BANGLA ENT.",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.mHvQSWkDxXpDvyYJ8-czsQHaE8?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.",Channel i
@@ -14,7 +15,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-sLjSbwUg5Bg/W6K8oDZhqkI/AAAAAAAAAPc/NLaA9mC7ewkQ1m4NUrvDOfQiZ0NbSzRRgCLcBGAs/s1600/maasranga-tv-live.png" group-MACH-RANGA="BANGLA ENT.",MachRanga-Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-DEEPTO-TV="BANGLA ENT.",Dipto-Tv
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtcDMZrkpmQSxiAGv2ZLrIQybEG2ZPuKAjP8tvf7EW2pNaZgjq9g832Y5z6feAqNT_-gKyxf90zgglkx4EIcvhhargrj_MD_sGUUxzR28-53LU17WGyCBVfmFZhJ0tY0imYksXox8gt21eJQ-EvPKqee_uiDg_36ZCwhMEoBm0PoQa29whTHlFV75JBw/w93-h94-p-k-no-nu/Picsart-23-06-07-10-15-30-064.png=w74-h74-p-k-no-nu" group-BANGLA-TV="BANGLA ENT.",Bangla-Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=777224
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-ANANDA-TV="BANGLA MOVIE.",Ananda-Tv
@@ -39,6 +40,8 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/100681
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngr59cKSrXstL9C_4Ub7Y5SEntMUUXfUITGWli_gw=s900-c-k-c0x00ffffff-no-rj" group-SA-TV="BANGLA ENT.",Sa-Tv
 http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.bvnews24.com/media/common/logo-fb.png" group-B-TV="BANGLA ENT.",Bangla Vishon
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=8WBi-ad0UOARLeqkUSQS8Q&expires=1720808015&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-BIJOY-TV="BANGLA MOVIE.",Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.oOKtZazZCkeyWEITD1-y8gHaD4?rs=1&pid=ImgDetMain" group-DESH-TV="BANGLA ENT.",Desh-Tv
@@ -131,6 +134,8 @@ https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.47ed34f188b0004e68417cd41f2cf087?rik=DiAMb9s4O2jJ5A&pid=ImgRaw&r=0" group-title="BANGLA ENT.",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-B-TV="BANGLA ENT.",Duronto Tv
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZK8LB0xqL_pA3Tfwdp14U86qw-YLVU7cNtj4sFeRVJWbTFxWCxPNPxwtchxjL8a8CWKfbfZEEOwr1GMBEfy-i-G49nYnAucGAeEIidL-QhSqRIspObyzsnGullErvqGD43k2xEtXhLNcVEMKyKkiKn2SF_UDogRISmKSQogVyYsbjv-9f6uxTCg6lR9E/w93-h94-p-k-no-nu/logo.webp=w74-h74-p-k-no-nu" group-title="BANGLA ENT.",Jago News 24 Tv
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWYxg3ogHp4jNvjhJ1ObLFN7KxQwT-9OPmbCwuzK6VXgT88qF7y8V0Uv7OL17iVo1Pfmug-lwoPRljfX8Quq1k4YRoadlNsXtB3gJEsO-LJEtdUMwZGTf309xiW55rVhvwmaKvR_UWZBpf8yXpJk8SzcInoQJPwOk6tAyyu64Q1Iy5zpVxXxZrulXeUoA/w93-h94-p-k-no-nu/download%20%2817%29.jpeg=w74-h74-p-k-no-nu" group-VOICE-TV="BANGLA ENT.",MILLENNIUM TV 24 NEWS
@@ -138,13 +143,13 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QB-wDobtd5aC_b_drZ-A2XCifxVZl9VIYTv3SXSQzU58ctD92FRMV5sonNRSCl8aOZl5QZDnFUqDSA0EOHaWx-RSU0hVux1NOkRNOTs8a8y-j6mSC5wyDw3sKbVUCkYpV3DuZcvzprytE7pLiwC0Y2EkuSRKX-zJwfNMgWbQbv8hUMTNmokSuDl5_t8/w93-h94-p-k-no-nu/download%20%2815%29.jpeg=w74-h74-p-k-no-nu" group-VOICE-TV="BANGLA ENT.",Ekhon-Tv
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",News 24
-http://cdn01.palki.tv/live/News24-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=6OlJbIyVeE2KvPOxGXO0wQ&expires=1720808286&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.VXAKRxdqP0cpOGGR945h1wHaD5?rs=1&pid=ImgDetMain" group-B-TV="BANGLA ENT.",Indeperent Television
-http://cdn01.palki.tv/live/Independent-M/index.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=MJm7VaUpLkKtZNi9XPI3sw&expires=1720808231&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitMhO4YepoR9IdCrWFNJoU36UiUtBL9wxGAxMe7YfDGtJIloP4FYoWdV2yNMnL-CRNm50L_Lq2TiCIq37XFeORey_pmxNBZc1EuVRKno2WPaPh8drHpP-I9mIOL2KDgc1Ly5BG45mIfOZy-Ps_2Gc_7wQqsiqv3tjHbOn4nSOQCueRjnxZXgY1owHhUfA/w93-h94-p-k-no-nu/Picsart-23-06-07-11-34-54-734.png=w74-h74-p-k-no-nu" group-CHANNEL-24="BANGLA NEWS.",Chennl 24
 http://cdn01.palki.tv:80/live/Channel24-M/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVabjzOoquPt1dX0e0NmgE_HJxbci6DDuG4A&usqp=CAU" group-JOMUNA-TV="BANGLA NEWS.",Jamuna Tv
-https://tplus.dhakastream.com/jamuna/index.m3u8
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=mF-kE9efAWGbwKu6jr4Yqw&expires=1720808240&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9ehTuUenGMiVHLRhibqb_plFM8Aj4SVc7iopBGgkRQ&s" group-title="BANGLA ENT.",Climate Channel
 https://iptvbd.live/climatetvchannel/1080.m3u8
 #EXTINF:0 tvg-logo="https://bangla.plus/images/bp-image.png" group-title="BANGLA ENT.",Bangla+
@@ -202,7 +207,7 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/96178
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFF0h-mQPcrjsAGUfN38OXXcXR41J-bSrDuW1_x9JU0T4j4UwM5P2ZJoaZ5E6K5k2iDeTuaHDQ8iM2cxz_opNOMVVEsKE-8H1NZrCHd5mtQlV215ETkJUA5I8MFEc6VXh-6hi0M5ea1Bqoq4CgYEp52Rc0H5DC-IUuGx4fdNVDqzV0n0l3lCac8B6h/w93-h94-p-k-no-nu/20221018_101152.jpg=w74-h74-p-k-no-nu" group-title="HINDI MOVIE.",Zee Cinema 
 http://195.26.87.217/live.ts?channelId=214&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="HINDI MOVIE.",Zee Cinema
-http://170.254.18.107/ZEECINEMA/index.m3u8
+https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="HINDI MOVIE.",Zee-Action
 http://opplex.tv:8080/live/ahmar555/123456/66191.m3u8
 #EXTINF:0 tvg-logo="https://dthhelper.com/wp-content/uploads/2021/07/History-TV18-33.png" group-title="HINDI MOVIE.",Zee Anmol Cinema 
